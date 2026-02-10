@@ -78,3 +78,9 @@ function render(rows) {
     });
 } // <-- make sure this closing brace exists
 ``;
+
+(async () => {
+  const rows = await load();
+  render(rows);
+})();
+console.log('APP LOADED OK');
