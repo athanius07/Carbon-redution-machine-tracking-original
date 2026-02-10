@@ -1,0 +1,47 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Carbon Reduction Equipment Monitor</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<header>
+  <h1>Carbon Reduction Equipment Monitor</h1>
+  <p>Live catalog of low/zero-emission construction & mining equipment (Battery, Hybrid, Hydrogen, Methanol/Other).</p>
+</header>
+<section class="controls">
+  <div class="toggles">
+    <label><input type="checkbox" class="type-toggle" value="Dump truck" checked> Dump trucks</label>
+    <label><input type="checkbox" class="type-toggle" value="Bulldozer" checked> Bulldozers</label>
+    <label><input type="checkbox" class="type-toggle" value="Grader" checked> Graders</label>
+    <label><input type="checkbox" class="type-toggle" value="Wheel loader" checked> Wheel loaders</label>
+    <label><input type="checkbox" class="type-toggle" value="Excavator" checked> Excavators</label>
+    <label><input type="checkbox" class="type-toggle" value="Backhoe" checked> Backhoes</label>
+    <button id="downloadCsv" class="btn">Download CSV</button>
+  </div>
+</section>
+<section>
+  <div class="table-wrap">
+    <table id="equip">
+      <thead>
+        <tr>
+          <th>Power</th><th>OEM</th><th>Country</th><th>Class (t)</th>
+          <th>Engine/Motor (kW)</th><th>Blade (grader)</th><th>Bucket (m³)</th>
+          <th>Type</th><th>Year</th><th>Status</th><th>Model</th><th>Link</th><th>Date</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+</section>
+<footer>
+  <small>Served by GitHub Pages. Colors: <span class="badge battery">Battery</span>
+    <span class="badge hydrogen">Hydrogen</span><span class="badge hybrid">Hybrid</span>
+    <span class="badge methanol">Methanol/Other</span></small>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,316 @@
+{
+  "seeds": [
+    {
+      "oem": "Komatsu",
+      "country": "Japan",
+      "type_hint": "Excavator",
+      "start_urls": [
+        "https://www.komatsu.com/",
+        "https://www.komatsu.com/en/news/"
+      ]
+    },
+    {
+      "oem": "Caterpillar",
+      "country": "USA",
+      "type_hint": "Dump truck",
+      "start_urls": [
+        "https://www.caterpillar.com/",
+        "https://www.cat.com/en_US/news.html"
+      ]
+    },
+    {
+      "oem": "Hitachi",
+      "country": "Japan",
+      "type_hint": "Excavator",
+      "start_urls": [
+        "https://www.hitachicm.com/",
+        "https://www.hitachicm.com/global/press/"
+      ]
+    },
+    {
+      "oem": "Volvo CE",
+      "country": "Sweden",
+      "type_hint": "Excavator",
+      "start_urls": [
+        "https://www.volvoce.com/",
+        "https://www.volvoce.com/global/en/news-events/news/"
+      ]
+    },
+    {
+      "oem": "Liebherr",
+      "country": "Germany",
+      "type_hint": "Wheel loader",
+      "start_urls": [
+        "https://www.liebherr.com/en/usa/usa.html",
+        "https://www.liebherr.com/en/usa/latest-news/latest-news.html"
+      ]
+    },
+    {
+      "oem": "John Deere",
+      "country": "USA",
+      "type_hint": "Wheel loader",
+      "start_urls": [
+        "https://www.deere.com/en/",
+        "https://www.deere.com/en/news/"
+      ]
+    },
+    {
+      "oem": "Epiroc",
+      "country": "Sweden",
+      "type_hint": "Dump truck",
+      "start_urls": [
+        "https://www.epiroc.com/",
+        "https://www.epiroc.com/en/about-us/media"
+      ]
+    },
+    {
+      "oem": "JCB",
+      "country": "UK",
+      "type_hint": "Backhoe",
+      "start_urls": [
+        "https://www.jcb.com/",
+        "https://www.jcb.com/en-gb/news"
+      ]
+    },
+    {
+      "oem": "Develon",
+      "country": "South Korea",
+      "type_hint": "Excavator",
+      "start_urls": [
+        "https://eu.develon-ce.com/en/",
+        "https://eu.develon-ce.com/en/news"
+      ]
+    },
+    {
+      "oem": "HD Hyundai CE",
+      "country": "South Korea",
+      "type_hint": "Excavator",
+      "start_urls": [
+        "https://www.hyundai-ce.com/",
+        "https://www.hyundai-ce.com/en/media/news"
+      ]
+    },
+    {
+      "oem": "SANY",
+      "country": "China",
+      "type_hint": "Excavator",
+      "start_urls": [
+        "https://www.sanyglobal.com/",
+        "https://www.sanyglobal.com/press/"
+      ]
+    },
+    {
+      "oem": "XCMG",
+      "country": "China",
+      "type_hint": "Wheel loader",
+      "start_urls": [
+        "https://www.xcmg.com/",
+        "https://www.xcmg.com/en-za_news/"
+      ]
+    },
+    {
+      "oem": "Liugong",
+      "country": "China",
+      "type_hint": "Wheel loader",
+      "start_urls": [
+        "https://www.liugong-NA.com/",
+        "https://www.liugong-NA.com/news/"
+      ]
+    },
+    {
+      "oem": "Shantui",
+      "country": "China",
+      "type_hint": "Bulldozer",
+      "start_urls": [
+        "https://www.shantui.com/",
+        "https://www.shantui.com/news/"
+      ]
+    },
+    {
+      "oem": "Terex",
+      "country": "Global",
+      "type_hint": "Dump truck",
+      "start_urls": [
+        "https://www.terex.com/",
+        "https://www.terex.com/news-and-events/news"
+      ]
+    },
+    {
+      "oem": "NHL",
+      "country": "China",
+      "type_hint": "Dump truck",
+      "start_urls": [
+        "http://www.nhl.com.cn/"
+      ]
+    },
+    {
+      "oem": "XEMC",
+      "country": "China",
+      "type_hint": "Dump truck",
+      "start_urls": [
+        "http://www.xemc.com.cn/"
+      ]
+    },
+    {
+      "oem": "MCC",
+      "country": "China",
+      "type_hint": "Mining",
+      "start_urls": [
+        "https://www.mcc.net/"
+      ]
+    },
+    {
+      "oem": "CRRC",
+      "country": "China",
+      "type_hint": "Mining",
+      "start_urls": [
+        "https://www.crrcgc.cc/"
+      ]
+    },
+    {
+      "oem": "AHI",
+      "country": "China",
+      "type_hint": "Mining",
+      "start_urls": [
+        ""
+      ]
+    },
+    {
+      "oem": "TONLY",
+      "country": "China",
+      "type_hint": "Dump truck",
+      "start_urls": [
+        "http://www.tonly.cn/"
+      ]
+    },
+    {
+      "oem": "Belaz",
+      "country": "Belarus",
+      "type_hint": "Dump truck",
+      "start_urls": [
+        "https://belaz.by/en/",
+        "https://belaz.by/en/press/"
+      ]
+    },
+    {
+      "oem": "LGMG",
+      "country": "China",
+      "type_hint": "Mining",
+      "start_urls": [
+        "https://www.lgmg.com/",
+        "https://www.lgmg.com/news/"
+      ]
+    },
+    {
+      "oem": "Yutong",
+      "country": "China",
+      "type_hint": "Excavator",
+      "start_urls": [
+        "https://en.yutong.com/",
+        "https://en.yutong.com/news/"
+      ]
+    },
+    {
+      "oem": "Zoomlion",
+      "country": "China",
+      "type_hint": "Construction",
+      "start_urls": [
+        "https://en.zoomlion.com/",
+        "https://en.zoomlion.com/news/"
+      ]
+    },
+    {
+      "oem": "Hova/Howo/Sino",
+      "country": "China",
+      "type_hint": "Dump truck",
+      "start_urls": [
+        "https://www.sinotruk.com.cn/"
+      ]
+    },
+    {
+      "oem": "Doosan",
+      "country": "Korea",
+      "type_hint": "Excavator",
+      "start_urls": [
+        "https://www.doosan.com/en",
+        "https://www.doosan.com/en/media/news-room"
+      ]
+    },
+    {
+      "oem": "Sunward",
+      "country": "China",
+      "type_hint": "Excavator",
+      "start_urls": [
+        "https://en.sunward.com.cn/",
+        "https://en.sunward.com.cn/news/"
+      ]
+    },
+    {
+      "oem": "Lonking",
+      "country": "China",
+      "type_hint": "Wheel loader",
+      "start_urls": [
+        "https://en.lonkinggroup.com/",
+        "https://en.lonkinggroup.com/news/"
+      ]
+    },
+    {
+      "oem": "BEML",
+      "country": "India",
+      "type_hint": "Mining",
+      "start_urls": [
+        "https://www.bemlindia.in/",
+        "https://www.bemlindia.in/media/press-releases/"
+      ]
+    },
+    {
+      "oem": "TZCO",
+      "country": "China",
+      "type_hint": "Mining",
+      "start_urls": [
+        "http://www.tz.com.cn/"
+      ]
+    },
+    {
+      "oem": "Bucyrus",
+      "country": "USA",
+      "type_hint": "Mining",
+      "start_urls": [
+        "https://www.caterpillar.com/"
+      ]
+    },
+    {
+      "oem": "Marion",
+      "country": "USA",
+      "type_hint": "Mining",
+      "start_urls": [
+        "https://www.caterpillar.com/"
+      ]
+    },
+    {
+      "oem": "UZTM KARTEX",
+      "country": "Russia",
+      "type_hint": "Mining",
+      "start_urls": [
+        "https://uztm.com/",
+        "https://karyer.ru/"
+      ]
+    },
+    {
+      "oem": "Chetra",
+      "country": "Russia",
+      "type_hint": "Bulldozer",
+      "start_urls": [
+        "https://chetra.ru/"
+      ]
+    },
+    {
+      "oem": "HBM Nobas",
+      "country": "Germany",
+      "type_hint": "Grader",
+      "start_urls": [
+        "https://www.hbm-nobas.de/"
+      ]
+    }
+  ]
+}

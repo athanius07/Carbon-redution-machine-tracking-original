@@ -1,0 +1,18 @@
+
+:root{--blue:#0f6cbd;--lightgrey:#f4f6f8;--battery:#2ecc71;--hydrogen:#3498db;--hybrid:#9b59b6;--methanol:#e67e22}
+*{box-sizing:border-box}
+body{font-family:system-ui,Segoe UI,Arial,sans-serif;background:var(--lightgrey);margin:0;color:#222}
+header{background:var(--blue);color:#fff;padding:16px 24px}
+.controls{padding:12px 24px}
+.table-wrap{padding:0 24px 32px;overflow:auto}
+table{width:100%;border-collapse:collapse;background:#fff;border-radius:8px;overflow:hidden}
+th,td{padding:10px 12px;border-bottom:1px solid #e7e9ec;font-size:14px}
+th{position:sticky;top:0;background:#fff;font-weight:600}
+.badge{display:inline-block;padding:2px 8px;border-radius:12px;color:#fff;margin:0 4px;font-size:12px}
+.badge.battery{background:var(--battery)}.badge.hydrogen{background:var(--hydrogen)}.badge.hybrid{background:var(--hybrid)}.badge.methanol{background:var(--methanol)}
+.power-pill{padding:4px 10px;border-radius:14px;color:#fff;white-space:nowrap}
+.power-battery{background:var(--battery)}.power-hydrogen{background:var(--hydrogen)}.power-hybrid{background:var(--hybrid)}.power-methanol{background:var(--methanol)}
+.link a{color:#0a5bd3;text-decoration:none}
+.link a:hover{text-decoration:underline}
+.toggles label{margin-right:12px}
+.btn{margin-left:12px;padding:6px 10px;border:0;border-radius:6px;background:#222;color:#fff;cursor:pointer}
