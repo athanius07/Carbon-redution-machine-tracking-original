@@ -18,7 +18,10 @@ FIELDS=[
 ]
 
 KEYWORDS=[
- 'carbon','hydrogen','battery','hybrid','electric','zero emission','mining','construction','low-emission','zero-emission'
+ 
+"carbon","hydrogen","battery","hybrid","electric","zero emission",
+  "kw","bucket","m3","payload","operating weight","grader","blade","capacity"
+
 ]
 
 # Regex helpers
