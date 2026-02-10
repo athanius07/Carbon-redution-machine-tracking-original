@@ -1,38 +1,36 @@
 
 async function load() {
-  const res = await fetch('../data/machines.json', { cache: 'no-store' });
-  if (!res.ok) { throw new Error('Cannot load data'); }
+  try {
+    const res = await fetch('machines.json', { cache: 'no-store' });
+    if (!res.ok) { throw new Error(`Cannot load data: ${res.status} ${res.statusText}`); }
 
-  // 1) Parse JSON
-  let data = await res.json();
+    const raw = await res.json();
+    let rows = Array.isArray(raw) ? raw : (raw?.rows || []);
+    if (!Array.isArray(rows)) {
+      console.warn('Unexpected JSON shape; got:', raw);
+      rows = [];
+    }
 
-  // 2) Unwrap if your JSON is { rows: [...] } (else keep as-is)
-  let rows = Array.isArray(data) ? data : (data?.rows || []);
+    // Normalize field names (accept both old and new variants)
+    rows = rows.map(r => ({
+      ...r,
+      class:  r.class  ?? r.class_tons   ?? r.class_t   ?? "",
+      engine: r.engine ?? r.engine_power_kw ?? r.motor_kw ?? "",
+      bucket: r.bucket ?? r.bucket_size_m3  ?? r.bucket_m3 ?? "",
+      blade:  r.blade  ?? r.blade_size      ?? "",
+      year:   r.year   ?? r.year_of_release ?? r.release_year ?? "",
+      status: r.status ?? r.development_status ?? "",
+    }));
 
-  // 3) Normalize keys so downstream code can keep using old names
-  rows = rows.map(r => ({
-    ...r,
-
-    // Class (tonnes)
-    class:  r.class ?? r.class_tons ?? r.class_t ?? "",
-
-    // Engine/Motor power (kW)
-    engine: r.engine ?? r.engine_power_kw ?? r.motor_kw ?? "",
-
-    // Bucket size (m³)
-    bucket: r.bucket ?? r.bucket_size_m3 ?? r.bucket_m3 ?? "",
-
-    // Grader blade
-    blade:  r.blade ?? r.blade_size ?? "",
-
-    // Year
-    year:   r.year ?? r.year_of_release ?? r.release_year ?? "",
-
-    // Status (development/production/etc.)
-    status: r.status ?? r.development_status ?? "",
-  }));
-
-  return rows;
+    console.log(`Loaded ${rows.length} machines`);
+    return rows;
+  } catch (err) {
+    console.error('load() failed:', err);
+    const el = document.getElementById('error') || document.body;
+    el.insertAdjacentHTML('afterbegin',
+      `<div style="color:#b00020">Data load failed: ${err.message}</div>`);
+    return [];
+  }
 }
 
 function powerClass(p){
@@ -44,28 +42,39 @@ function powerClass(p){
   return '';
 }
 
-function render(rows){
-  const checks=[...document.querySelectorAll('.type-toggle')];
-  const allowed=new Set(checks.filter(c=>c.checked).map(c=>c.value));
-  const tbody=document.querySelector('#equip tbody');
-  tbody.innerHTML='';
-  rows.filter(r=>allowed.has(r.type||r.type_hint||''))
-      .forEach(r=>{
-        const tr=document.createElement('tr');
-        const link=r.link?`<a href="${r.link}" target="_blank" rel="noopener">Source</a>`:'';
-        tr.innerHTML=`
-          <td><span class="power-pill ${powerClass(r.power)}">${r.power||''}</span></td>
-          <td>${r.oem||''}</td>
-          <td>${r.country||''}</td>
-          <td>${r.class_tons||''}</td>
-          <td>${r.engine_power_kw||''}</td>
-          <td>${r.blade_size||''}</td>
-          <td>${r.bucket_size_m3||''}</td>
-          <td>${r.type||''}</td>
-          <td>${r.year_of_release||''}</td>
-          <td>${r.development_status||''}</td>
-          <td>${r.model_number||''}</td>
-          <td class="link">${link}</td>
-          <td>${(r.link_date||'')}</td>`;
-        tbody.appendChild(tr);
-      });
+function render(rows) {
+  const checks   = [...document.querySelectorAll('.type-toggle')];
+  const allowed  = new Set(checks.filter(c => c.checked).map(c => c.value));
+  const tbody    = document.querySelector('#equip tbody');
+
+  tbody.innerHTML = '';
+
+  rows
+    .filter(r => allowed.has((r.type_html || r.type || '').trim()))
+    .forEach(r => {
+      const tr = document.createElement('tr');
+      const linkHtml = r.link
+        ? `<{r.link}Source</a>`
+        : '';
+
+      tr.innerHTML = `
+        <td><span class="power-pill ${powerClass(r.power)}">${r.power || ''}</span></td>
+        <td>${r.oem || ''}</td>
+        <td>${r.country || ''}</td>
+
+        <!-- normalized or raw -->
+        <td>${r.class ?? r.class_tons ?? r.class_t ?? ''}</td>
+        <td>${r.engine ?? r.engine_power_kw ?? r.motor_kw ?? ''}</td>
+        <td>${r.blade ?? r.blade_size ?? ''}</td>
+        <td>${r.bucket ?? r.bucket_size_m3 ?? r.bucket_m3 ?? ''}</td>
+
+        <td>${r.type || ''}</td>
+        <td>${r.year ?? r.year_of_release ?? r.release_year ?? ''}</td>
+        <td>${r.status ?? r.development_status ?? ''}</td>
+        <td class="link">${linkHtml}</td>
+        <td>${r.link_date || ''}</td>
+      `;
+      tbody.appendChild(tr);
+    });
+} // <-- make sure this closing brace exists
+``;
