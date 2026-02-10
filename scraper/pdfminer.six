@@ -1,0 +1,10 @@
+def fetch_pdf_text(url: str, timeout=25) -> str:
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=timeout)
+        if r.status_code == 200:
+            from io import BytesIO
+            from pdfminer.high_level import extract_text
+            return extract_text(BytesIO(r.content)) or ""
+    except Exception as e:
+        print("  ! pdf error", url, e)
+    return ""
