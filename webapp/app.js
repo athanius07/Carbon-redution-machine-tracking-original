@@ -58,3 +58,30 @@ function render(rows){
     alert('Could not load data. If viewing locally, serve via a small web server or open this site on GitHub Pages.');
   }
 })();
+// If machines.json is wrapped like { rows: [...] }, unwrap it:
+if (!Array.isArray(rows) && rows?.rows) {
+  rows = rows.rows;
+}
+
+// Normalize keys to match what your table expects
+rows = rows.map(r => ({
+  ...r,
+
+  // CLASS
+  class: r.class ?? r.class_tons ?? r.class_t ?? "",
+
+  // ENGINE POWER (kW)
+  engine: r.engine ?? r.engine_power_kw ?? r.motor_kw ?? "",
+
+  // BUCKET SIZE (m³)
+  bucket: r.bucket ?? r.bucket_size_m3 ?? r.bucket_m3 ?? "",
+
+  // BLADE SIZE (for graders)
+  blade: r.blade ?? r.blade_size ?? "",
+
+  // YEAR (many file versions use different key names)
+  year: r.year ?? r.year_of_release ?? r.release_year ?? "",
+
+  // STATUS (if needed)
+  status: r.status ?? r.development_status ?? "",
+}));
