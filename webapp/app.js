@@ -1,8 +1,38 @@
 
-async function load(){
-  const res = await fetch('../data/machines.json', {cache:'no-store'});
-  if(!res.ok){ throw new Error('Cannot load data'); }
-  return await res.json();
+async function load() {
+  const res = await fetch('../data/machines.json', { cache: 'no-store' });
+  if (!res.ok) { throw new Error('Cannot load data'); }
+
+  // 1) Parse JSON
+  let data = await res.json();
+
+  // 2) Unwrap if your JSON is { rows: [...] } (else keep as-is)
+  let rows = Array.isArray(data) ? data : (data?.rows || []);
+
+  // 3) Normalize keys so downstream code can keep using old names
+  rows = rows.map(r => ({
+    ...r,
+
+    // Class (tonnes)
+    class:  r.class ?? r.class_tons ?? r.class_t ?? "",
+
+    // Engine/Motor power (kW)
+    engine: r.engine ?? r.engine_power_kw ?? r.motor_kw ?? "",
+
+    // Bucket size (m³)
+    bucket: r.bucket ?? r.bucket_size_m3 ?? r.bucket_m3 ?? "",
+
+    // Grader blade
+    blade:  r.blade ?? r.blade_size ?? "",
+
+    // Year
+    year:   r.year ?? r.year_of_release ?? r.release_year ?? "",
+
+    // Status (development/production/etc.)
+    status: r.status ?? r.development_status ?? "",
+  }));
+
+  return rows;
 }
 
 function powerClass(p){
