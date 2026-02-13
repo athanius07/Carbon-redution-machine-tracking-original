@@ -1,60 +1,81 @@
+// webapp/apps.js
 
-async function load(){
-  const res = await fetch('../data/machines.json', {cache:'no-store'});
-  if(!res.ok){ throw new Error('Cannot load data'); }
-  return await res.json();
+async function loadData() {
+  const resp = await fetch("../data/machines.json");
+  return await resp.json();
 }
 
-function powerClass(p){
-  const k=(p||'').toLowerCase();
-  if(k.includes('battery')) return 'power-battery';
-  if(k.includes('hydrogen')) return 'power-hydrogen';
-  if(k.includes('hybrid')) return 'power-hybrid';
-  if(k.includes('methanol')||k.includes('ethanol')||k.includes('other')) return 'power-methanol';
-  return '';
+function fmt(val, unit) {
+  if (val === null || val === undefined || val === "") return "";
+  return `${val}${unit ? " " + unit : ""}`;
 }
 
-function render(rows){
-  const checks=[...document.querySelectorAll('.type-toggle')];
-  const allowed=new Set(checks.filter(c=>c.checked).map(c=>c.value));
-  const tbody=document.querySelector('#equip tbody');
-  tbody.innerHTML='';
-  rows.filter(r=>allowed.has(r.type||r.type_hint||''))
-      .forEach(r=>{
-        const tr=document.createElement('tr');
-        const link=r.link?`<a href="${r.link}" target="_blank" rel="noopener">Source</a>`:'';
-        tr.innerHTML=`
-          <td><span class="power-pill ${powerClass(r.power)}">${r.power||''}</span></td>
-          <td>${r.oem||''}</td>
-          <td>${r.country||''}</td>
-          <td>${r.class_tons||''}</td>
-          <td>${r.engine_power_kw||''}</td>
-          <td>${r.blade_size||''}</td>
-          <td>${r.bucket_size_m3||''}</td>
-          <td>${r.type||''}</td>
-          <td>${r.year_of_release||''}</td>
-          <td>${r.development_status||''}</td>
-          <td>${r.model_number||''}</td>
-          <td class="link">${link}</td>
-          <td>${(r.link_date||'')}</td>`;
-        tbody.appendChild(tr);
-      });
+function bladeDisplay(row) {
+  if (row.blade) return row.blade; // pre-composed string from scraper
+  const w = row.blade_w_m, h = row.blade_h_m;
+  if (w && h) return `${w} m × ${h} m`;
+  if (w) return `${w} m`;
+  return "";
 }
 
-(async function(){
-  try{
-    const data = await load();
-    const original=data.slice();
-    document.querySelectorAll('.type-toggle').forEach(ch=> ch.addEventListener('change',()=>render(original)));
-    document.getElementById('downloadCsv').addEventListener('click',()=>{
-      const a=document.createElement('a');
-      a.href='../data/machines.csv';
-      a.download='machines.csv';
-      a.click();
-    });
-    render(original);
-  }catch(e){
-    console.error(e);
-    alert('Could not load data. If viewing locally, serve via a small web server or open this site on GitHub Pages.');
-  }
+function rowHtml(row) {
+  return `
+    <tr>
+      <td><span class="badge">${row.power || ""}</span></td>
+      <td>${row.oem || ""}</td>
+      <td>${row.country || ""}</td>
+      <td>${row.class || ""}</td>
+      <td>${fmt(row.engine_kw, "kW")}</td>
+      <td>${bladeDisplay(row)}</td>
+      <td>${fmt(row.bucket_m3, "m³")}</td>
+      <td>${row.type || ""}</td>
+      <td>${row.year || ""}</td>
+      <td>${row.status || ""}</td>
+      <td>${row.model || ""}</td>
+      <td><a href="${row.link}" target="_blank"${row.date || ""}</td>
+    </tr>`;
+}
+
+function renderTable(rows) {
+  const tbody = document.querySelector("#machines tbody");
+  tbody.innerHTML = rows.map(rowHtml).join("");
+}
+
+function exportCSV(rows) {
+  const headers = ["Power","OEM","Country","Class","Engine/Motor (kW)","Blade (grader)","Bucket (m³)","Type","Year","Status","Model","Link","Date","Tonnage (t)"];
+  const lines = [headers.join(",")];
+  rows.forEach(r => {
+    const line = [
+      r.power || "",
+      r.oem || "",
+      r.country || "",
+      r.class || "",
+      r.engine_kw ?? "",
+      bladeDisplay(r),
+      r.bucket_m3 ?? "",
+      r.type || "",
+      r.year || "",
+      r.status || "",
+      r.model || "",
+      r.link || "",
+      r.date || "",
+      r.tonnage_t ?? ""
+    ].map(x => `"${String(x).replace(/"/g, '""')}"`).join(",");
+    lines.push(line);
+  });
+  const blob = new Blob([lines.join("\n")], { type: "text/csv;charset=utf-8" });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url; a.download = "machines.csv";
+  document.body.appendChild(a); a.click(); a.remove();
+  URL.revokeObjectURL(url);
+}
+
+(async function () {
+  const data = await loadData();
+  renderTable(data);
+
+  const btn = document.getElementById("downloadCsv");
+  if (btn) btn.addEventListener("click", () => exportCSV(data));
 })();
+``
