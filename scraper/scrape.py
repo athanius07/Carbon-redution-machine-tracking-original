@@ -1,10 +1,10 @@
+
 import csv, json, re, time, os, sys, yaml
 from urllib.parse import urljoin, urlparse
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
 
-from util_extract import extract_all  # NEW
 ROOT = os.path.dirname(os.path.dirname(__file__))
 CFG  = os.path.join(ROOT, 'config', 'sources.yaml')
 OUT_CSV = os.path.join(ROOT, 'data', 'machines.csv')
@@ -18,10 +18,7 @@ FIELDS=[
 ]
 
 KEYWORDS=[
- 
-"carbon","hydrogen","battery","hybrid","electric","zero emission",
-  "kw","bucket","m3","payload","operating weight","grader","blade","capacity"
-
+ 'carbon','hydrogen','battery','hybrid','electric','zero emission','mining','construction','low-emission','zero-emission'
 ]
 
 # Regex helpers
