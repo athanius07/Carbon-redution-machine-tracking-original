@@ -121,9 +121,7 @@ function render(rows) {
 
   const html = filtered.map(r => {
     const linkHtml = r.link
-      ? `${escapeHtml(r.link)}Source</a>`
-      : '';
-    return `
+      ? `<a href="${escapeHtml(r.link)}" target="_blank" rel="rn `
       <tr>
         <td><span class="power-pill ${powerClass(r.power)}">${escapeHtml(r.power || '')}</span></td>
         <td>${escapeHtml(r.oem)}</td>
@@ -156,27 +154,3 @@ function render(rows) {
         { title: 'Engine (kW)',    value: r => r.engine || '' },
         { title: 'Blade (grader)', value: r => r.blade || '' },
         { title: 'Bucket (m3)',    value: r => r.bucket || '' },
-        { title: 'Type',           value: r => r.type_normalized || '' },
-        { title: 'Year',           value: r => r.year || '' },
-        { title: 'Status',         value: r => r.status || '' },
-        { title: 'Model',          value: r => r.model_number || '' },
-        { title: 'Link',           value: r => r.link || '' },
-        { title: 'Date',           value: r => r.link_date || '' }
-      ];
-      const csv = toCsv(filtered, headers);
-      download('machines.csv', csv);
-    };
-  }
-}
-
-// ---------- Bootstrapping ----------------------------------------------------
-(async () => {
-  const rows = await load();
-  // Re-render whenever toggles change
-  document.addEventListener('change', (e) => {
-    if (e.target && e.target.classList && e.target.classList.contains('type-toggle')) {
-      render(rows);
-    }
-  });
-  render(rows);
-})();
