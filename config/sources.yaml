@@ -314,3 +314,19 @@
     }
   ]
 }
+# config/source.yaml
+sources:
+  - oem: Komatsu
+    country: Japan
+    equipment_type: Excavator
+    url: "https://example.com/komatsu/excavators/model-abc"
+    status: "HTML"
+    selectors:
+      # Any of these can be omitted; scraper will try fallback regex automatically.
+      engine_kw: "table.specs td:contains('Engine Power') + td, .engine-power, .spec-engine"
+      tonnage_t: ".operating-weight, td:contains('Operating weight') + td"
+      bucket_m3: ".bucket-capacity, td:contains('Bucket capacity') + td"
+      # For graders, you could add:
+      blade: "td:contains('Moldboard') + td, .moldboard, .blade"
+
+  # Add more sources here …
