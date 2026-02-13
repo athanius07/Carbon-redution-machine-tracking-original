@@ -147,3 +147,4 @@ function exportCSV(rows) {
   const btn = document.getElementById("downloadCsv");
   if (btn) btn.addEventListener("click", () => exportCSV(data));
 })();
+apps.js?v=1</script>
