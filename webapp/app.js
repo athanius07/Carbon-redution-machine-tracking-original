@@ -1,8 +1,11 @@
-// --- Load + normalize --------------------------------------------------------
 async function load() {
   try {
-    const res = await fetch('machines.json', { cache: 'no-store' });
-    if (!res.ok) throw new Error(`Cannot load data: ${res.status} ${res.statusText}`);
+    // Build a URL relative to the page (NOT relative to app.js),
+    // safe for GH Pages project sites that live under /<repo>/
+    const dataUrl = new URL('data/machines.json', document.baseURI).href;
+
+    const res = await fetch(dataUrl, { cache: 'no-store' });
+    if (!res.ok) { throw new Error(`Cannot load data: ${res.status} ${res.statusText}`); }
 
     const raw = await res.json();
     let rows = Array.isArray(raw) ? raw : (raw?.rows || []);
@@ -10,6 +13,8 @@ async function load() {
       console.warn('Unexpected JSON shape; got:', raw);
       rows = [];
     }
+
+    // … keep your normalization here …
 
     // Normalize to classic keys used by the table
     rows = rows.map(r => ({
