@@ -2,7 +2,7 @@ async function load() {
   try {
     // Build a URL relative to the page (NOT relative to app.js),
     // safe for GH Pages project sites that live under /<repo>/
-    const dataUrl = new URL('data/machines.json', document.baseURI).href;
+    const res = await fetch('../data/machines.json', { cache: 'no-store' });
 
     const res = await fetch(dataUrl, { cache: 'no-store' });
     if (!res.ok) { throw new Error(`Cannot load data: ${res.status} ${res.statusText}`); }
