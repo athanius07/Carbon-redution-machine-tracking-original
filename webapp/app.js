@@ -1,5 +1,5 @@
 // webapp/apps.js
-
+console.log("[apps.js] loaded");
 function showError(msg) {
   const el = document.createElement("div");
   el.style.background = "#ffe8e6";
