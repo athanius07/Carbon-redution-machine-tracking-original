@@ -23,3 +23,9 @@ python scraper/scrape.py
 ## GitHub Pages
 Enable GitHub Pages for the repository and point it to the branch you push (usually `main`). Then browse to `/webapp/index.html`.
 
+### Normalized fields
+- `engine_kw`: Engine or motor power in kW (hp auto-converted).
+- `tonnage_t`: Operating weight / class in metric tonnes.
+- `bucket_m3`: Bucket capacity in m³ (yd³ & liters converted).
+- `blade_w_m`, `blade_h_m`: Grader moldboard width/height in meters.
+- `blade`: Human-readable blade string for display.
