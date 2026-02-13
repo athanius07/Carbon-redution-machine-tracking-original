@@ -3,7 +3,6 @@
 
 import re
 import json
-import math
 import time
 import csv
 from pathlib import Path
@@ -32,7 +31,7 @@ num_re = r"(\d+(?:[.,]\d+)?)"
 def _to_float(s):
     if s is None:
         return None
-    s = s.strip().replace(",", "")
+    s = str(s).strip().replace(",", "")
     try:
         return float(s)
     except Exception:
@@ -66,7 +65,7 @@ def to_m3(val, unit):
     unit = unit.lower()
     if unit in ("m3", "m³"):
         return v
-    if unit in ("yd3", "yd³", "cuyd", "cu yd", "yd^3"):
+    if unit in ("yd3", "yd³", "cu yd", "cuyd", "yd^3", "cu. yd"):
         return round(v * YD3_TO_M3, 3)
     if unit in ("l", "litre", "liter", "liters", "litres"):
         return round(v / 1000.0, 3)
@@ -96,18 +95,15 @@ RE_BLADE_WIDTH = re.compile(rf"(?:moldboard|blade).*?(?:width|W)\s*[:\-]?\s*{num
 def clean_text(text):
     return re.sub(r"\s+", " ", text or "").strip()
 
-def pick_first(iterable):
-    for x in iterable:
-        if x is not None:
-            return x
-    return None
-
 def get_html(url):
     resp = SESSION.get(url, timeout=30)
     resp.raise_for_status()
     return resp.text
 
 def from_selector(soup, selector):
+    """
+    Supports SoupSieve selectors. Prefer ':-soup-contains("Text")' over ':contains()'.
+    """
     try:
         node = soup.select_one(selector)
         if node:
@@ -118,7 +114,7 @@ def from_selector(soup, selector):
 
 def extract_specs_from_text(text, equipment_type):
     """
-    Regex-based fallback extraction from free text.
+    Regex-based extraction from free text.
     Returns normalized dict + raw matches.
     """
     normalized = {
@@ -133,15 +129,12 @@ def extract_specs_from_text(text, equipment_type):
     # Engine
     m = RE_ENGINE.search(text)
     if m:
-        val, unit = m.group(1), m.group(2) if len(m.groups()) > 1 else m.group(1)
-        # Above pattern uses first group as number; ensure mapping:
-        if m.lastindex >= 2:
-            val = m.group(1)
-            unit = m.group(2)
+        val = m.group(1)
+        unit = m.group(2)
         normalized["engine_kw"] = to_kw(val, unit)
         raw["engine_power_raw"] = f"{val} {unit}"
 
-    # Tonnage / operating weight / class
+    # Tonnage / Operating weight / Class
     m = RE_TONNAGE.search(text)
     if m:
         val = m.group(1)
@@ -150,7 +143,8 @@ def extract_specs_from_text(text, equipment_type):
         raw["tonnage_raw"] = f"{val} {unit}"
 
     # Bucket (excavators / wheel loaders)
-    if equipment_type in ("Excavator", "Wheel loader", "Wheel loaders", "Excavators"):
+    eq = (equipment_type or "").lower()
+    if eq.startswith("excavator") or eq.startswith("wheel"):
         m = RE_BUCKET.search(text)
         if m:
             val = m.group(1)
@@ -159,7 +153,7 @@ def extract_specs_from_text(text, equipment_type):
             raw["bucket_raw"] = f"{val} {unit}"
 
     # Blade (graders)
-    if equipment_type in ("Grader", "Graders"):
+    if eq.startswith("grader"):
         m = RE_BLADE_DIM.search(text)
         if m:
             w_val, w_unit, h_val, h_unit = m.group(1), m.group(2), m.group(3), m.group(4)
@@ -212,7 +206,7 @@ def extract_with_selectors(soup, selectors, equipment_type):
 
         # BUCKET
         s = selectors.get("bucket_m3")
-        if s and equipment_type.lower().startswith(("excavator", "wheel")):
+        if s and (equipment_type or "").lower().startswith(("excavator", "wheel")):
             val = from_selector(soup, s)
             if val:
                 m = re.search(rf"{num_re}\s*(m3|m³|yd3|yd³|cu\.?\s*yd|cuyd|l|lit(?:re|er)s?)", val, re.I)
@@ -222,7 +216,7 @@ def extract_with_selectors(soup, selectors, equipment_type):
 
         # BLADE
         s = selectors.get("blade")
-        if s and equipment_type.lower().startswith("grader"):
+        if s and (equipment_type or "").lower().startswith("grader"):
             val = from_selector(soup, s)
             if val:
                 m = RE_BLADE_DIM.search(val)
@@ -237,7 +231,7 @@ def extract_with_selectors(soup, selectors, equipment_type):
                         raw["blade_raw"] = clean_text(val)
 
     # Fallback regex on entire page
-    fallback_norm, fallback_raw = extract_specs_from_text(text_blob, equipment_type)
+    fallback_norm, fallback_raw = extract_specs_from_text(text_blob, equipment_type or "")
     for k, v in fallback_norm.items():
         if normalized.get(k) is None and v is not None:
             normalized[k] = v
@@ -245,22 +239,23 @@ def extract_with_selectors(soup, selectors, equipment_type):
 
     return normalized, raw
 
-def load_config():
+def load_yaml_sources():
+    if not CONFIG_PATH.exists():
+        return []
     with open(CONFIG_PATH, "r", encoding="utf-8") as f:
-        return yaml.safe_load(f)
+        cfg = yaml.safe_load(f) or {}
+    return cfg.get("sources", [])
 
 def save_outputs(rows):
-    # Write JSON
     JSON_PATH.parent.mkdir(parents=True, exist_ok=True)
     with open(JSON_PATH, "w", encoding="utf-8") as f:
         json.dump(rows, f, ensure_ascii=False, indent=2)
 
-    # Write CSV (flat)
     fieldnames = [
-        "power", "oem", "country", "class", "engine_kw",
-        "blade", "bucket_m3", "type", "status", "year",
-        "model", "link", "date",
-        "tonnage_t", "blade_w_m", "blade_h_m", "raw_specs"
+        "power","oem","country","class","engine_kw",
+        "blade","bucket_m3","type","year","status",
+        "model","link","date",
+        "tonnage_t","blade_w_m","blade_h_m","raw_specs"
     ]
     with open(CSV_PATH, "w", encoding="utf-8", newline="") as f:
         w = csv.DictWriter(f, fieldnames=fieldnames)
@@ -268,69 +263,96 @@ def save_outputs(rows):
         for r in rows:
             w.writerow({k: r.get(k, "") for k in fieldnames})
 
+def enrich_row(row):
+    url = row.get("link")
+    eq_type = row.get("type") or row.get("equipment_type") or ""
+    if not url:
+        return row, {}
+
+    html = get_html(url)
+    soup = BeautifulSoup(html, "html.parser")
+    # Optional per‑OEM selectors (none by default)
+    selectors = row.get("_selectors", {})  # allows per-row selectors if you want
+    normalized, raw = extract_with_selectors(soup, selectors, eq_type)
+
+    # Build blade display string
+    blade_str = None
+    if normalized["blade_w_m"] and normalized["blade_h_m"]:
+        blade_str = f"{normalized['blade_w_m']}m × {normalized['blade_h_m']}m"
+    elif normalized["blade_w_m"]:
+        blade_str = f"{normalized['blade_w_m']}m"
+
+    # Merge back
+    out = dict(row)
+    out["engine_kw"] = normalized["engine_kw"] if normalized["engine_kw"] is not None else row.get("engine_kw")
+    out["bucket_m3"] = normalized["bucket_m3"] if normalized["bucket_m3"] is not None else row.get("bucket_m3")
+    out["tonnage_t"] = normalized["tonnage_t"] if normalized["tonnage_t"] is not None else row.get("tonnage_t")
+    out["blade_w_m"] = normalized["blade_w_m"] if normalized["blade_w_m"] is not None else row.get("blade_w_m")
+    out["blade_h_m"] = normalized["blade_h_m"] if normalized["blade_h_m"] is not None else row.get("blade_h_m")
+    out["blade"] = blade_str or row.get("blade")
+    # Always refresh 'date' as run date if missing
+    out["date"] = out.get("date") or time.strftime("%Y-%m-%d")
+
+    raw_prev = {}
+    try:
+        raw_prev = json.loads(row.get("raw_specs") or "{}")
+    except Exception:
+        pass
+    out["raw_specs"] = json.dumps({**raw_prev, **raw}, ensure_ascii=False)
+
+    return out, raw
+
 def main():
-    cfg = load_config()
-    sources = cfg.get("sources", [])
-    results = []
+    rows = []
 
+    # 1) Enrich existing data if present
+    if JSON_PATH.exists():
+        with open(JSON_PATH, "r", encoding="utf-8") as f:
+            existing = json.load(f)
+        print(f"Loaded {len(existing)} existing rows; enriching from 'link' pages…")
+        for r in existing:
+            try:
+                enriched, _ = enrich_row(r)
+                rows.append(enriched)
+            except Exception as e:
+                r_out = dict(r)
+                r_out.setdefault("raw_specs", f"error: {e}")
+                rows.append(r_out)
+    else:
+        print("No existing JSON; starting from config sources only.")
+
+    # 2) Optional: union with sources from YAML
+    sources = load_yaml_sources()
     for src in sources:
+        # Only add entries that are not already in rows by the same URL
         url = src.get("url")
-        oem = src.get("oem")
-        country = src.get("country")
-        eq_type = src.get("equipment_type") or src.get("type")
-        status = src.get("status", "HTML")
-        klass = src.get("class", "")
-        power = src.get("power", "")
-        year = src.get("year", "")
-        model = src.get("model", "")
-
+        if not url:
+            continue
+        if any((row.get("link") == url) for row in rows):
+            continue
+        # Seed a minimal row and enrich it
+        seed_row = {
+            "power": src.get("power", ""),
+            "oem": src.get("oem", ""),
+            "country": src.get("country", ""),
+            "class": src.get("class", ""),
+            "type": src.get("equipment_type") or src.get("type", ""),
+            "status": src.get("status", "HTML"),
+            "year": src.get("year", ""),
+            "model": src.get("model", ""),
+            "link": url,
+            "date": time.strftime("%Y-%m-%d"),
+            "_selectors": src.get("selectors", {})
+        }
         try:
-            html = get_html(url)
-            soup = BeautifulSoup(html, "html.parser")
-            normalized, raw = extract_with_selectors(soup, src.get("selectors", {}), eq_type or "")
-
-            # Build record consistent with your table headers
-            blade_str = None
-            if normalized["blade_w_m"] and normalized["blade_h_m"]:
-                blade_str = f"{normalized['blade_w_m']}m × {normalized['blade_h_m']}m"
-            elif normalized["blade_w_m"]:
-                blade_str = f"{normalized['blade_w_m']}m"
-
-            record = {
-                "power": power,
-                "oem": oem,
-                "country": country,
-                "class": klass,
-                "engine_kw": normalized["engine_kw"],
-                "blade": blade_str,
-                "bucket_m3": normalized["bucket_m3"],
-                "type": eq_type,
-                "status": status,
-                "year": year,
-                "model": model,
-                "link": url,
-                "date": time.strftime("%Y-%m-%d"),
-                "tonnage_t": normalized["tonnage_t"],
-                "blade_w_m": normalized["blade_w_m"],
-                "blade_h_m": normalized["blade_h_m"],
-                "raw_specs": json.dumps(raw, ensure_ascii=False),
-            }
-
-            results.append(record)
-
+            enriched, _ = enrich_row(seed_row)
+            rows.append(enriched)
         except Exception as e:
-            results.append({
-                "power": power, "oem": oem, "country": country, "class": "",
-                "engine_kw": None, "blade": None, "bucket_m3": None, "type": eq_type,
-                "status": "ERROR", "year": "", "model": "", "link": url,
-                "date": time.strftime("%Y-%m-%d"),
-                "tonnage_t": None, "blade_w_m": None, "blade_h_m": None,
-                "raw_specs": f"error: {e}"
-            })
+            seed_row["raw_specs"] = f"error: {e}"
+            rows.append(seed_row)
 
-    save_outputs(results)
-    print(f"Saved {len(results)} rows to {CSV_PATH} and {JSON_PATH}")
+    save_outputs(rows)
+    print(f"Saved {len(rows)} rows to {CSV_PATH} and {JSON_PATH}")
 
 if __name__ == "__main__":
     main()
-``
