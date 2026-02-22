@@ -11318,7 +11318,14 @@
     "link": "https://en.yutong.com/products/city-bus/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:13:52Z",
-    "raw_specs": "error: Response ended prematurely"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-02-22"
   },
   {
     "power": "Hybrid",
@@ -19399,14 +19406,14 @@
     "link": "https://eu.develon-ce.com/en/machines/dl80-7",
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:43:50Z",
-    "engine_kw": 55.928,
+    "engine_kw": 52.945,
     "bucket_m3": 0.08,
     "tonnage_t": 0.005,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"75 hp\", \"tonnage_raw\": \"5.200 kg\", \"bucket_raw\": \"80 l\"}"
+    "raw_specs": "{\"engine_power_raw\": \"71 hp\", \"tonnage_raw\": \"5.200 kg\", \"bucket_raw\": \"80 l\"}"
   },
   {
     "power": "Hybrid",
@@ -19543,14 +19550,14 @@
     "link": "https://eu.develon-ce.com/en/machines/dl80tl-7",
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:44:05Z",
-    "engine_kw": 55.928,
+    "engine_kw": 52.945,
     "bucket_m3": 0.08,
     "tonnage_t": 0.005,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"75 hp\", \"tonnage_raw\": \"5.200 kg\", \"bucket_raw\": \"80 l\"}"
+    "raw_specs": "{\"engine_power_raw\": \"71 hp\", \"tonnage_raw\": \"5.200 kg\", \"bucket_raw\": \"80 l\"}"
   },
   {
     "power": "Battery",
@@ -25296,14 +25303,14 @@
     "link": "https://eu.develon-ce.com/en/machines/dl85-7",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:04:39Z",
-    "engine_kw": 55.928,
+    "engine_kw": 52.945,
     "bucket_m3": 0.08,
     "tonnage_t": 0.005,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"75 hp\", \"tonnage_raw\": \"5.100 kg\", \"bucket_raw\": \"80 l\"}"
+    "raw_specs": "{\"engine_power_raw\": \"71 hp\", \"tonnage_raw\": \"5.100 kg\", \"bucket_raw\": \"80 l\"}"
   },
   {
     "power": "",
