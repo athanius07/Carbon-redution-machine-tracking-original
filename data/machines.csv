@@ -70,7 +70,7 @@ Hybrid,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group/about-liebherr/liebherr-worldwide/liebherr-worldwide-3877672,2026-02-15,,,,{}
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/cross-entry-point/en-us-us/corp_imprint,2026-02-15,,,,{}
 Hybrid,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en-us/n/hands-on-the-future-at-conexpo-2026-liebherr-previews-expanded-portfolio-and-digital-solutions-221248-3782185,2026-02-15,,,,{}
-Hybrid,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en-us/group/news/news-and-press-releases/news-and-press-releases-3782184,2026-02-15,,,,{}
+Hybrid,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en-us/group/news/news-and-press-releases/news-and-press-releases-3782184,2026-02-15,1400.0,,,"{""tonnage_raw"": ""1,400 tonnes""}"
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group/about-liebherr/services/sales-and-service-partners/sales-and-service-3781939,2026-02-15,,,,{}
 Hybrid,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/tower-cranes/tower-cranes-4356108,2026-02-15,100.0,,,"{""tonnage_raw"": ""100 tons""}"
 Hybrid,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/maritime-cranes/liebherr-maritime-4433440,2026-02-15,1600.0,,,"{""tonnage_raw"": ""1,600 tonnes""}"
@@ -100,7 +100,7 @@ Hybrid,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group/about-liebherr/liebherr-worldwide/liebherr-worldwide-3877672,2026-02-15,,,,{}
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/cross-entry-point/en-us-us/corp_imprint,2026-02-15,,,,{}
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group/about-liebherr/services/sales-and-service-partners/sales-and-service-3781939,2026-02-15,,,,{}
-Hybrid,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en-us/group/news/news-and-press-releases/news-and-press-releases-3782184,2026-02-15,,,,{}
+Hybrid,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en-us/group/news/news-and-press-releases/news-and-press-releases-3782184,2026-02-15,1400.0,,,"{""tonnage_raw"": ""1,400 tonnes""}"
 Hybrid,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/tower-cranes/tower-cranes-4356108,2026-02-15,100.0,,,"{""tonnage_raw"": ""100 tons""}"
 Hybrid,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/maritime-cranes/liebherr-maritime-4433440,2026-02-15,1600.0,,,"{""tonnage_raw"": ""1,600 tonnes""}"
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/n/global-cooperation-liebherr-and-yuchai-power-join-forces-221760-3782185,2026-02-15,,,,{}
@@ -128,7 +128,7 @@ Battery,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/mobi
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/privacy-and-data/accessibility/,2026-02-15,,,,{}
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/government-and-military-sales/,2026-02-15,,,,{}
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/finance/financing/landscaping-grounds-care/,2026-02-15,,,,{}
-,John Deere,USA,,33.556,,0.35,Excavator,,,,https://www.deere.com/en/seeding-equipment/,2026-02-15,850.0,,,"{""engine_power_raw"": ""45 hp"", ""tonnage_raw"": ""850 T"", ""bucket_raw"": ""350 L""}"
+,John Deere,USA,,33.556,,0.35,Excavator,,,,https://www.deere.com/en/seeding-equipment/,2026-02-15,1100.0,,,"{""engine_power_raw"": ""45 hp"", ""tonnage_raw"": ""1100 T"", ""bucket_raw"": ""350 L""}"
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/attachments-accessories-and-implements/,2026-02-15,,,,{}
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/finance/financing/forestry-and-logging/,2026-02-15,,,,{}
 Hybrid,John Deere,USA,,200.0,,0.643,Excavator,,,,https://www.deere.com/en/wheeled-feller-bunchers/,2026-02-15,0.0,,,"{""engine_power_raw"": ""200 kW"", ""tonnage_raw"": ""000 kg"", ""bucket_raw"": ""643 L""}"
@@ -158,7 +158,7 @@ Hybrid,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/golf-sports-turf
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/privacy-and-data/accessibility/,2026-02-15,,,,{}
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/government-and-military-sales/,2026-02-15,,,,{}
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/finance/financing/landscaping-grounds-care/,2026-02-15,,,,{}
-,John Deere,USA,,33.556,,0.35,Excavator,,,,https://www.deere.com/en/seeding-equipment/,2026-02-15,850.0,,,"{""engine_power_raw"": ""45 hp"", ""tonnage_raw"": ""850 T"", ""bucket_raw"": ""350 L""}"
+,John Deere,USA,,33.556,,0.35,Excavator,,,,https://www.deere.com/en/seeding-equipment/,2026-02-15,1100.0,,,"{""engine_power_raw"": ""45 hp"", ""tonnage_raw"": ""1100 T"", ""bucket_raw"": ""350 L""}"
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/attachments-accessories-and-implements/,2026-02-15,,,,{}
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/news/all-news/fy25-fourth-quarter-earnings/,2026-02-15,,,,{}
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/finance/financing/forestry-and-logging/,2026-02-15,,,,{}
@@ -652,7 +652,7 @@ Hybrid,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en-us/group/ne
 Battery,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/parts-and-service/parts/,2026-02-15,,,,{}
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/finance/financing/landscaping-grounds-care/multi-use-account/,2026-02-15,,,,{}
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/gator-utility-vehicles/turf-gators/,2026-02-15,0.363,,,"{""tonnage_raw"": ""800 lb""}"
-,John Deere,USA,,186.425,,,Excavator,,,,https://www.deere.com/en/agriculture/,2026-02-15,,,,"{""engine_power_raw"": ""250 HP""}"
+,John Deere,USA,,186.425,,38.763,Excavator,,,,https://www.deere.com/en/agriculture/,2026-02-15,1100.0,,,"{""engine_power_raw"": ""250 HP"", ""tonnage_raw"": ""1100 T"", ""bucket_raw"": ""38,763 L""}"
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/,2026-02-15,,,,{}
 Hybrid,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/gator-utility-vehicles/,2026-02-15,1.814,,,"{""tonnage_raw"": ""1814 kg""}"
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/finance/financing/lawn-garden/gator-utility-vehicles/,2026-02-15,,,,{}
@@ -680,7 +680,7 @@ Battery,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/parts-and-servi
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/finance/financing/landscaping-grounds-care/multi-use-account/,2026-02-15,,,,{}
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/gator-utility-vehicles/turf-gators/,2026-02-15,0.363,,,"{""tonnage_raw"": ""800 lb""}"
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/stories/featured/pbs-feature/,2026-02-15,,,,{}
-,John Deere,USA,,186.425,,,Excavator,,,,https://www.deere.com/en/agriculture/,2026-02-15,,,,"{""engine_power_raw"": ""250 HP""}"
+,John Deere,USA,,186.425,,38.763,Excavator,,,,https://www.deere.com/en/agriculture/,2026-02-15,1100.0,,,"{""engine_power_raw"": ""250 HP"", ""tonnage_raw"": ""1100 T"", ""bucket_raw"": ""38,763 L""}"
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/,2026-02-15,,,,{}
 Hybrid,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/gator-utility-vehicles/,2026-02-15,1.814,,,"{""tonnage_raw"": ""1814 kg""}"
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/finance/financing/lawn-garden/gator-utility-vehicles/,2026-02-15,,,,{}
@@ -1118,34 +1118,34 @@ Battery,BEML,India,,1200.0,,,Excavator,,,,https://www.bemlindia.in/manufacturing
 ,BEML,India,,,,,Excavator,,,,https://www.bemlindia.in/marketing-network,2026-02-15,,,,{}
 ,BEML,India,,,,,Excavator,,,,https://www.bemlindia.in/corporate-governance-report/,2026-02-15,,,,{}
 ,BEML,India,,,,,Excavator,,,,https://www.bemlindia.in/tenders,2026-02-15,,,,{}
-,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fd6e9750>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
-,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/#subscribe,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fea04f50>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
-Battery,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/catalog/excavator/chetra-e220-nc/,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /catalog/excavator/chetra-e220-nc/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fde01b90>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
-,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/catalog/wheels/chetra-pk12/,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /catalog/wheels/chetra-pk12/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fd7c5050>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
-,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/catalog/kommunal/mini-pogruzchik-chetra-mkcm-800m-1-premium/,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /catalog/kommunal/mini-pogruzchik-chetra-mkcm-800m-1-premium/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fd7c5450>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
-,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/press-center/media/,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /press-center/media/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fdd38bd0>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
-,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/press-center/offers/tekhnika-chetra-teper-dostupna-po-programme-lgotnogo-lizinga-dom-rf/,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /press-center/offers/tekhnika-chetra-teper-dostupna-po-programme-lgotnogo-lizinga-dom-rf/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fd7c40d0>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
-,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/press-center/media/kak-dobyvayut-zoloto-na-buldozere-chetra-t35/,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /press-center/media/kak-dobyvayut-zoloto-na-buldozere-chetra-t35/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fd7c7990>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
-,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/press-center/offers/,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /press-center/offers/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fde00f10>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
-,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/press-center/media/demontazh-montazh-kabiny-krana-truboukladchika-chetra-tg-511ya/,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /press-center/media/demontazh-montazh-kabiny-krana-truboukladchika-chetra-tg-511ya/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fea05a90>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
-,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/press-center/news/chetra-pk3-obzor-na-novuyu-tekhniku/,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /press-center/news/chetra-pk3-obzor-na-novuyu-tekhniku/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fdd39dd0>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
-,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/spares/unique/,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /spares/unique/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fea051d0>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
-,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/spares/warehouse/,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /spares/warehouse/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fde00750>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
-,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/catalog/pipelayers/chetra-tg511/,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /catalog/pipelayers/chetra-tg511/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fde00d90>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
-,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/press-center/news/chetra-zapuskaet-novoe-napravlenie-gorodskoy-tekhniki/,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /press-center/news/chetra-zapuskaet-novoe-napravlenie-gorodskoy-tekhniki/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fd7c5290>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
-,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/personal/,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /personal/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fdd3a9d0>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
-,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/catalog/buldozers/chetra-t15/,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /catalog/buldozers/chetra-t15/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fd7c4a90>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
-,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/catalog/buldozers/chetra-t45/,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /catalog/buldozers/chetra-t45/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fd7c6850>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
-,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/press-center/offers/firmennoe-to-chetra-vygodno/,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /press-center/offers/firmennoe-to-chetra-vygodno/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fde00850>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
-Battery,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/catalog/excavator/chetra-e270/,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /catalog/excavator/chetra-e270/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fea07150>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
-,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/press-center/offers/aktsiya-dvoynaya-vygoda-ekonomte-vdvoyne-pri-pokupke-spetstekhniki/,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /press-center/offers/aktsiya-dvoynaya-vygoda-ekonomte-vdvoyne-pri-pokupke-spetstekhniki/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fdd39890>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
-,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/catalog/navesnoe/,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /catalog/navesnoe/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fe9b0a90>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
-,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/press-center/projects/,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /press-center/projects/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fde01590>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
-,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/catalog/,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /catalog/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fd7c5d50>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
-,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/catalog/kommunal/mini-pogruzchik-chetra-mksm-1600m/,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /catalog/kommunal/mini-pogruzchik-chetra-mksm-1600m/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fd7c6a50>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
-,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/catalog/wheels/chetra-pk3/,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /catalog/wheels/chetra-pk3/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fdd3bb10>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
-,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/press-center/media/i-vserossiyskiy-chempionat-operatorov-tekhniki-chetra/,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /press-center/media/i-vserossiyskiy-chempionat-operatorov-tekhniki-chetra/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fd7c5ad0>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
-,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/spares/,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /spares/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fda5bed0>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
-,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/catalog/kommunal/mini-pogruzchik-chetra-mksm-1200m-1-premium/,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /catalog/kommunal/mini-pogruzchik-chetra-mksm-1200m-1-premium/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fde011d0>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
-,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/catalog/pipelayers/chetra-tg302/,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /catalog/pipelayers/chetra-tg302/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fd6e9bd0>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
-,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/press-center/offers/ekskavatory-chetra-so-skidkoy-do-15-/,,,,,"error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /press-center/offers/ekskavatory-chetra-so-skidkoy-do-15-/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fdd3b4d0>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/,2026-03-01,,,,{}
+,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/#subscribe,2026-03-01,,,,{}
+Battery,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/catalog/excavator/chetra-e220-nc/,2026-03-01,,,,{}
+,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/catalog/wheels/chetra-pk12/,2026-03-01,,,,{}
+,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/catalog/kommunal/mini-pogruzchik-chetra-mkcm-800m-1-premium/,2026-03-01,,,,{}
+,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/press-center/media/,2026-03-01,,,,{}
+,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/press-center/offers/tekhnika-chetra-teper-dostupna-po-programme-lgotnogo-lizinga-dom-rf/,2026-03-01,,,,{}
+,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/press-center/media/kak-dobyvayut-zoloto-na-buldozere-chetra-t35/,2026-03-01,,,,{}
+,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/press-center/offers/,2026-03-01,,,,{}
+,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/press-center/media/demontazh-montazh-kabiny-krana-truboukladchika-chetra-tg-511ya/,2026-03-01,,,,{}
+,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/press-center/news/chetra-pk3-obzor-na-novuyu-tekhniku/,2026-03-01,,,,{}
+,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/spares/unique/,2026-03-01,,,,{}
+,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/spares/warehouse/,2026-03-01,,,,{}
+,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/catalog/pipelayers/chetra-tg511/,2026-03-01,,,,{}
+,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/press-center/news/chetra-zapuskaet-novoe-napravlenie-gorodskoy-tekhniki/,2026-03-01,,,,{}
+,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/personal/,2026-03-01,,,,{}
+,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/catalog/buldozers/chetra-t15/,2026-03-01,,,,{}
+,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/catalog/buldozers/chetra-t45/,2026-03-01,,,,{}
+,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/press-center/offers/firmennoe-to-chetra-vygodno/,2026-03-01,,,,{}
+Battery,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/catalog/excavator/chetra-e270/,2026-03-01,,,,{}
+,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/press-center/offers/aktsiya-dvoynaya-vygoda-ekonomte-vdvoyne-pri-pokupke-spetstekhniki/,2026-03-01,,,,{}
+,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/catalog/navesnoe/,2026-03-01,,,,{}
+,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/press-center/projects/,2026-03-01,,,,{}
+,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/catalog/,2026-03-01,,,,{}
+,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/catalog/kommunal/mini-pogruzchik-chetra-mksm-1600m/,2026-03-01,,,,{}
+,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/catalog/wheels/chetra-pk3/,2026-03-01,,,,{}
+,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/press-center/media/i-vserossiyskiy-chempionat-operatorov-tekhniki-chetra/,2026-03-01,,,,{}
+,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/spares/,2026-03-01,,,,{}
+,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/catalog/kommunal/mini-pogruzchik-chetra-mksm-1200m-1-premium/,2026-03-01,,,,{}
+,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/catalog/pipelayers/chetra-tg302/,2026-03-01,,,,{}
+,Chetra,Russia,,,,,Excavator,,,,https://chetra.ru/press-center/offers/ekskavatory-chetra-so-skidkoy-do-15-/,2026-03-01,,,,{}

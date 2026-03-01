@@ -1720,12 +1720,12 @@
     "last_seen_utc": "2026-02-10T06:00:17Z",
     "engine_kw": null,
     "bucket_m3": null,
-    "tonnage_t": null,
+    "tonnage_t": 1400.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{}"
+    "raw_specs": "{\"tonnage_raw\": \"1,400 tonnes\"}"
   },
   {
     "power": "",
@@ -2440,12 +2440,12 @@
     "last_seen_utc": "2026-02-13T01:01:28Z",
     "engine_kw": null,
     "bucket_m3": null,
-    "tonnage_t": null,
+    "tonnage_t": 1400.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{}"
+    "raw_specs": "{\"tonnage_raw\": \"1,400 tonnes\"}"
   },
   {
     "power": "Hybrid",
@@ -3112,12 +3112,12 @@
     "last_seen_utc": "2026-02-10T06:00:42Z",
     "engine_kw": 33.556,
     "bucket_m3": 0.35,
-    "tonnage_t": 850.0,
+    "tonnage_t": 1100.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"45 hp\", \"tonnage_raw\": \"850 T\", \"bucket_raw\": \"350 L\"}"
+    "raw_specs": "{\"engine_power_raw\": \"45 hp\", \"tonnage_raw\": \"1100 T\", \"bucket_raw\": \"350 L\"}"
   },
   {
     "power": "",
@@ -3832,12 +3832,12 @@
     "last_seen_utc": "2026-02-10T06:41:40Z",
     "engine_kw": 33.556,
     "bucket_m3": 0.35,
-    "tonnage_t": 850.0,
+    "tonnage_t": 1100.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"45 hp\", \"tonnage_raw\": \"850 T\", \"bucket_raw\": \"350 L\"}"
+    "raw_specs": "{\"engine_power_raw\": \"45 hp\", \"tonnage_raw\": \"1100 T\", \"bucket_raw\": \"350 L\"}"
   },
   {
     "power": "",
@@ -15687,13 +15687,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:41:15Z",
     "engine_kw": 186.425,
-    "bucket_m3": null,
-    "tonnage_t": null,
+    "bucket_m3": 38.763,
+    "tonnage_t": 1100.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"250 HP\"}"
+    "raw_specs": "{\"engine_power_raw\": \"250 HP\", \"tonnage_raw\": \"1100 T\", \"bucket_raw\": \"38,763 L\"}"
   },
   {
     "power": "",
@@ -16359,13 +16359,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:41:34Z",
     "engine_kw": 186.425,
-    "bucket_m3": null,
-    "tonnage_t": null,
+    "bucket_m3": 38.763,
+    "tonnage_t": 1100.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"250 HP\"}"
+    "raw_specs": "{\"engine_power_raw\": \"250 HP\", \"tonnage_raw\": \"1100 T\", \"bucket_raw\": \"38,763 L\"}"
   },
   {
     "power": "",
@@ -26863,7 +26863,14 @@
     "link": "https://chetra.ru/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:02Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fd6e9750>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   },
   {
     "power": "",
@@ -26880,7 +26887,14 @@
     "link": "https://chetra.ru/#subscribe",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:04Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fea04f50>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   },
   {
     "power": "Battery",
@@ -26897,7 +26911,14 @@
     "link": "https://chetra.ru/catalog/excavator/chetra-e220-nc/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:06Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /catalog/excavator/chetra-e220-nc/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fde01b90>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   },
   {
     "power": "",
@@ -26914,7 +26935,14 @@
     "link": "https://chetra.ru/catalog/wheels/chetra-pk12/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:08Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /catalog/wheels/chetra-pk12/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fd7c5050>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   },
   {
     "power": "",
@@ -26931,7 +26959,14 @@
     "link": "https://chetra.ru/catalog/kommunal/mini-pogruzchik-chetra-mkcm-800m-1-premium/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:10Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /catalog/kommunal/mini-pogruzchik-chetra-mkcm-800m-1-premium/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fd7c5450>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   },
   {
     "power": "",
@@ -26948,7 +26983,14 @@
     "link": "https://chetra.ru/press-center/media/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:12Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /press-center/media/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fdd38bd0>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   },
   {
     "power": "",
@@ -26965,7 +27007,14 @@
     "link": "https://chetra.ru/press-center/offers/tekhnika-chetra-teper-dostupna-po-programme-lgotnogo-lizinga-dom-rf/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:14Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /press-center/offers/tekhnika-chetra-teper-dostupna-po-programme-lgotnogo-lizinga-dom-rf/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fd7c40d0>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   },
   {
     "power": "",
@@ -26982,7 +27031,14 @@
     "link": "https://chetra.ru/press-center/media/kak-dobyvayut-zoloto-na-buldozere-chetra-t35/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:15Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /press-center/media/kak-dobyvayut-zoloto-na-buldozere-chetra-t35/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fd7c7990>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   },
   {
     "power": "",
@@ -26999,7 +27055,14 @@
     "link": "https://chetra.ru/press-center/offers/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:17Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /press-center/offers/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fde00f10>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   },
   {
     "power": "",
@@ -27016,7 +27079,14 @@
     "link": "https://chetra.ru/press-center/media/demontazh-montazh-kabiny-krana-truboukladchika-chetra-tg-511ya/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:19Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /press-center/media/demontazh-montazh-kabiny-krana-truboukladchika-chetra-tg-511ya/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fea05a90>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   },
   {
     "power": "",
@@ -27033,7 +27103,14 @@
     "link": "https://chetra.ru/press-center/news/chetra-pk3-obzor-na-novuyu-tekhniku/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:21Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /press-center/news/chetra-pk3-obzor-na-novuyu-tekhniku/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fdd39dd0>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   },
   {
     "power": "",
@@ -27050,7 +27127,14 @@
     "link": "https://chetra.ru/spares/unique/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:23Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /spares/unique/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fea051d0>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   },
   {
     "power": "",
@@ -27067,7 +27151,14 @@
     "link": "https://chetra.ru/spares/warehouse/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:25Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /spares/warehouse/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fde00750>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   },
   {
     "power": "",
@@ -27084,7 +27175,14 @@
     "link": "https://chetra.ru/catalog/pipelayers/chetra-tg511/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:26Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /catalog/pipelayers/chetra-tg511/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fde00d90>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   },
   {
     "power": "",
@@ -27101,7 +27199,14 @@
     "link": "https://chetra.ru/press-center/news/chetra-zapuskaet-novoe-napravlenie-gorodskoy-tekhniki/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:28Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /press-center/news/chetra-zapuskaet-novoe-napravlenie-gorodskoy-tekhniki/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fd7c5290>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   },
   {
     "power": "",
@@ -27118,7 +27223,14 @@
     "link": "https://chetra.ru/personal/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:29Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /personal/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fdd3a9d0>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   },
   {
     "power": "",
@@ -27135,7 +27247,14 @@
     "link": "https://chetra.ru/catalog/buldozers/chetra-t15/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:31Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /catalog/buldozers/chetra-t15/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fd7c4a90>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   },
   {
     "power": "",
@@ -27152,7 +27271,14 @@
     "link": "https://chetra.ru/catalog/buldozers/chetra-t45/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:33Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /catalog/buldozers/chetra-t45/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fd7c6850>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   },
   {
     "power": "",
@@ -27169,7 +27295,14 @@
     "link": "https://chetra.ru/press-center/offers/firmennoe-to-chetra-vygodno/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:34Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /press-center/offers/firmennoe-to-chetra-vygodno/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fde00850>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   },
   {
     "power": "Battery",
@@ -27186,7 +27319,14 @@
     "link": "https://chetra.ru/catalog/excavator/chetra-e270/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:36Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /catalog/excavator/chetra-e270/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fea07150>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   },
   {
     "power": "",
@@ -27203,7 +27343,14 @@
     "link": "https://chetra.ru/press-center/offers/aktsiya-dvoynaya-vygoda-ekonomte-vdvoyne-pri-pokupke-spetstekhniki/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:37Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /press-center/offers/aktsiya-dvoynaya-vygoda-ekonomte-vdvoyne-pri-pokupke-spetstekhniki/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fdd39890>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   },
   {
     "power": "",
@@ -27220,7 +27367,14 @@
     "link": "https://chetra.ru/catalog/navesnoe/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:39Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /catalog/navesnoe/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fe9b0a90>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   },
   {
     "power": "",
@@ -27237,7 +27391,14 @@
     "link": "https://chetra.ru/press-center/projects/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:40Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /press-center/projects/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fde01590>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   },
   {
     "power": "",
@@ -27254,7 +27415,14 @@
     "link": "https://chetra.ru/catalog/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:42Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /catalog/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fd7c5d50>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   },
   {
     "power": "",
@@ -27271,7 +27439,14 @@
     "link": "https://chetra.ru/catalog/kommunal/mini-pogruzchik-chetra-mksm-1600m/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:44Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /catalog/kommunal/mini-pogruzchik-chetra-mksm-1600m/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fd7c6a50>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   },
   {
     "power": "",
@@ -27288,7 +27463,14 @@
     "link": "https://chetra.ru/catalog/wheels/chetra-pk3/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:45Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /catalog/wheels/chetra-pk3/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fdd3bb10>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   },
   {
     "power": "",
@@ -27305,7 +27487,14 @@
     "link": "https://chetra.ru/press-center/media/i-vserossiyskiy-chempionat-operatorov-tekhniki-chetra/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:47Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /press-center/media/i-vserossiyskiy-chempionat-operatorov-tekhniki-chetra/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fd7c5ad0>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   },
   {
     "power": "",
@@ -27322,7 +27511,14 @@
     "link": "https://chetra.ru/spares/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:48Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /spares/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fda5bed0>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   },
   {
     "power": "",
@@ -27339,7 +27535,14 @@
     "link": "https://chetra.ru/catalog/kommunal/mini-pogruzchik-chetra-mksm-1200m-1-premium/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:50Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /catalog/kommunal/mini-pogruzchik-chetra-mksm-1200m-1-premium/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fde011d0>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   },
   {
     "power": "",
@@ -27356,7 +27559,14 @@
     "link": "https://chetra.ru/catalog/pipelayers/chetra-tg302/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:51Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /catalog/pipelayers/chetra-tg302/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fd6e9bd0>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   },
   {
     "power": "",
@@ -27373,6 +27583,13 @@
     "link": "https://chetra.ru/press-center/offers/ekskavatory-chetra-so-skidkoy-do-15-/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:20:53Z",
-    "raw_specs": "error: HTTPSConnectionPool(host='chetra.ru', port=443): Max retries exceeded with url: /press-center/offers/ekskavatory-chetra-so-skidkoy-do-15-/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='chetra.ru', port=443) at 0x7fa7fdd3b4d0>, 'Connection to chetra.ru timed out. (connect timeout=30)'))"
+    "raw_specs": "{}",
+    "engine_kw": null,
+    "bucket_m3": null,
+    "tonnage_t": null,
+    "blade_w_m": null,
+    "blade_h_m": null,
+    "blade": null,
+    "date": "2026-03-01"
   }
 ]
