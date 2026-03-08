@@ -28,7 +28,7 @@ Hybrid,Komatsu,Japan,,,,,Excavator,,,,https://www.komatsu.com/content/komatsu/we
 Hybrid,Komatsu,Japan,,,,,Excavator,,,,https://www.komatsu.com/en-us/products/equipment/forestry,2026-02-15,,,,{}
 Hybrid,Komatsu,Japan,,,,,Excavator,,,,https://www.komatsu.com/en-us/products/equipment/excavators,2026-02-15,,,,{}
 Hybrid,Komatsu,Japan,,,,,Excavator,,,,https://www.komatsu.com/en-us/technology/smart-mining,2026-02-15,,,,{}
-Hybrid,Komatsu,Japan,,,,,Excavator,,,,https://www.komatsu.com/en-us/products/attachments,2026-02-15,0.425,,,"{""tonnage_raw"": ""936.6 lbs""}"
+Hybrid,Komatsu,Japan,,,,,Excavator,,,,https://www.komatsu.com/en-us/products/attachments,2026-02-15,0.086,,,"{""tonnage_raw"": ""189.3 lbs""}"
 Hybrid,Komatsu,Japan,,,,,Excavator,,,,https://www.komatsu.com/en-us/technology/smart-construction/intelligent-machine-control,2026-02-15,,,,{}
 Battery,Hitachi,Japan,,,,,Excavator,,,,https://www.hitachicm.com/,2026-02-15,,,,{}
 Battery,Hitachi,Japan,,,,,Excavator,,,,https://www.hitachicm.com/#a07,2026-02-15,,,,{}
@@ -369,7 +369,7 @@ Hydrogen,HD Hyundai CE,South Korea,,,,0.36,Excavator,,,,https://www.hyundai-ce.c
 ,HD Hyundai CE,South Korea,,,,0.36,Excavator,,,,https://www.hyundai-ce.com/en/total-search/list?q=MG MC ,2026-02-15,,,,"{""bucket_raw"": ""360 L""}"
 ,HD Hyundai CE,South Korea,,,,0.36,Excavator,,,,https://www.hyundai-ce.com/en/total-search/list?q=HI MATE,2026-02-15,,,,"{""bucket_raw"": ""360 L""}"
 ,HD Hyundai CE,South Korea,,,,0.36,Excavator,,,,https://www.hyundai-ce.com/en/products/view?productsSeq=571,2026-02-15,,,,"{""bucket_raw"": ""360 L""}"
-Hydrogen,SANY,China,,45.4,,0.28,Excavator,,,,https://www.sanyglobal.com/,2026-02-15,7.5,,,"{""engine_power_raw"": ""45.4 kW"", ""tonnage_raw"": ""7.5 T"", ""bucket_raw"": ""0.28 m³""}"
+Hydrogen,SANY,China,,567.0,,8.0,Excavator,,,,https://www.sanyglobal.com/,2026-02-15,36.0,,,"{""engine_power_raw"": ""567 kW"", ""tonnage_raw"": ""36 T"", ""bucket_raw"": ""8 m³""}"
 Hydrogen,SANY,China,,,,,Excavator,,,,https://www.sanyglobal.com/press_releases/4835/,2026-02-15,,,,{}
 Hydrogen,SANY,China,,,,,Excavator,,,,https://www.sanyglobal.com/cases/list-17/,2026-02-15,,,,{}
 Hydrogen,SANY,China,,333.328,,,Excavator,,,,https://www.sanyglobal.com/product/petroleum_equipment/fracking_unit/,2026-02-15,,,,"{""engine_power_raw"": ""447 hp""}"
@@ -384,7 +384,7 @@ Hydrogen,SANY,China,,,,,Excavator,,,,https://www.sanyglobal.com/product/electric
 Hydrogen,SANY,China,,,,,Excavator,,,,https://www.sanyglobal.com/press_releases/,2026-02-15,,,,{}
 Hydrogen,SANY,China,,29.1,,0.15,Excavator,,,,https://www.sanyglobal.com/product/excavator/mini_excavator/109/,2026-02-15,5.0,,,"{""engine_power_raw"": ""29.1 kW"", ""tonnage_raw"": ""5 T"", ""bucket_raw"": ""0.15 m³""}"
 Hydrogen,SANY,China,,,,,Excavator,,,,https://www.sanyglobal.com/product/aerial_work_platform/scissorlift1/,2026-02-15,3.54,,,"{""tonnage_raw"": ""3540 kg""}"
-Hydrogen,SANY,China,,,,2.8,Excavator,,,,https://www.sanyglobal.com/product/loader/wheel_loader_new/,2026-02-15,16.0,,,"{""tonnage_raw"": ""16 T"", ""bucket_raw"": ""2.8 m³""}"
+Hydrogen,SANY,China,,,,2.8,Excavator,,,,https://www.sanyglobal.com/product/loader/wheel_loader_new/,2026-02-15,25.0,,,"{""tonnage_raw"": ""25 tons"", ""bucket_raw"": ""2.8 m³""}"
 Hydrogen,SANY,China,,,,,Excavator,,,,https://www.sanyglobal.com/press_releases/4841/,2026-02-15,,,,{}
 Hydrogen,SANY,China,,,,,Excavator,,,,https://www.sanyglobal.com/product/port_machinery/reach_stacker/,2026-02-15,45.0,,,"{""tonnage_raw"": ""45 T""}"
 Hydrogen,SANY,China,,147.0,,,Excavator,,,,https://www.sanyglobal.com/product/road_machinery/roller/,2026-02-15,26.0,,,"{""engine_power_raw"": ""147 kW"", ""tonnage_raw"": ""26000 kg""}"
@@ -785,7 +785,7 @@ Battery,Develon,South Korea,,171.1,,,Excavator,,,,https://eu.develon-ce.com/es/,
 Battery,Develon,South Korea,,105.0,,0.59,Excavator,,,,https://eu.develon-ce.com/en/machines/dx160we-7k,2026-02-15,0.8,,,"{""engine_power_raw"": ""105 kW"", ""tonnage_raw"": ""800 kg"", ""bucket_raw"": ""0.59 m3""}"
 ,Develon,South Korea,,240.0,,4.5,Excavator,,,,https://eu.develon-ce.com/en/machines/dl420cvt-7,2026-02-15,0.019,,,"{""engine_power_raw"": ""240 kW"", ""tonnage_raw"": ""18.696 kg"", ""bucket_raw"": ""4.5 m³""}"
 ,Develon,South Korea,,,,,Excavator,,,,https://eu.develon-ce.com/en/industries/quarry-and-mining,2026-02-15,,,,{}
-,Develon,South Korea,,91.0,,0.103,Excavator,,,,https://eu.develon-ce.com/en/products/dozers,2026-02-15,11.0,,,"{""engine_power_raw"": ""91.0 kW"", ""tonnage_raw"": ""11 t"", ""bucket_raw"": ""103.5 l""}"
+,Develon,South Korea,,117.0,,0.132,Excavator,,,,https://eu.develon-ce.com/en/products/dozers,2026-02-15,14.5,,,"{""engine_power_raw"": ""117 kW"", ""tonnage_raw"": ""14.5 t"", ""bucket_raw"": ""132 l""}"
 ,Develon,South Korea,,,,0.31,Excavator,,,,https://eu.develon-ce.com/en/machines/h-class-buckets-heavy-duty,2026-02-15,80.0,,,"{""tonnage_raw"": ""80 tons"", ""bucket_raw"": ""0.31 m³""}"
 ,Develon,South Korea,,140.937,,,Excavator,,,,https://eu.develon-ce.com/en/products/tunneling-machines,2026-02-15,0.689,,,"{""engine_power_raw"": ""189 hp"", ""tonnage_raw"": ""689 kg""}"
 ,Develon,South Korea,,256.521,,21.0,Excavator,,,,https://eu.develon-ce.com/en/machines/dx420lc-7,2026-02-15,0.043,,,"{""engine_power_raw"": ""344 HP"", ""tonnage_raw"": ""43.500 kg"", ""bucket_raw"": ""2,1 m³""}"
@@ -801,7 +801,7 @@ Battery,Develon,South Korea,,,,,Excavator,,,,https://eu.develon-ce.com/en/fairs-
 ,Develon,South Korea,,240.0,,4.5,Excavator,,,,https://eu.develon-ce.com/en/machines/dl420cvt-7,2026-02-15,0.019,,,"{""engine_power_raw"": ""240 kW"", ""tonnage_raw"": ""18.696 kg"", ""bucket_raw"": ""4.5 m³""}"
 ,Develon,South Korea,,,,,Excavator,,,,https://eu.develon-ce.com/en/industries/quarry-and-mining,2026-02-15,,,,{}
 ,Develon,South Korea,,,,,Excavator,,,,https://eu.develon-ce.com/en/news?page=2,2026-02-15,21.0,,,"{""tonnage_raw"": ""21 tonne""}"
-,Develon,South Korea,,91.0,,0.103,Excavator,,,,https://eu.develon-ce.com/en/products/dozers,2026-02-15,11.0,,,"{""engine_power_raw"": ""91.0 kW"", ""tonnage_raw"": ""11 t"", ""bucket_raw"": ""103.5 l""}"
+,Develon,South Korea,,117.0,,0.132,Excavator,,,,https://eu.develon-ce.com/en/products/dozers,2026-02-15,14.5,,,"{""engine_power_raw"": ""117 kW"", ""tonnage_raw"": ""14.5 t"", ""bucket_raw"": ""132 l""}"
 ,Develon,South Korea,,140.937,,,Excavator,,,,https://eu.develon-ce.com/en/products/tunneling-machines,2026-02-15,0.689,,,"{""engine_power_raw"": ""189 hp"", ""tonnage_raw"": ""689 kg""}"
 Hybrid,Develon,South Korea,,11.8,,25.7,Excavator,,,,https://eu.develon-ce.com/en/machines/da45-7,2026-02-15,41.0,,,"{""engine_power_raw"": ""11.8 kW"", ""tonnage_raw"": ""41 t"", ""bucket_raw"": ""25.7 m³""}"
 ,Develon,South Korea,,,,,Excavator,,,,https://eu.develon-ce.com/en/industries/material-handling,2026-02-15,,,,{}
@@ -825,8 +825,8 @@ Hydrogen,HD Hyundai CE,South Korea,,,,0.36,Excavator,,,,https://www.hyundai-ce.c
 ,HD Hyundai CE,South Korea,,,,0.36,Excavator,,,,https://www.hyundai-ce.com/en/products/MG/list,2026-02-15,12.0,,,"{""tonnage_raw"": ""12 ton"", ""bucket_raw"": ""360 L""}"
 ,HD Hyundai CE,South Korea,,,,0.36,Excavator,,,,https://www.hyundai-ce.com/en/products/EC/list,2026-02-15,10.0,,,"{""tonnage_raw"": ""10 ton"", ""bucket_raw"": ""360 L""}"
 ,HD Hyundai CE,South Korea,,,,0.36,Excavator,,,,https://www.hyundai-ce.com/en/gate/contents,2026-02-15,,,,"{""bucket_raw"": ""360 L""}"
-Hydrogen,SANY,China,,10.0,,0.1,Excavator,,,,https://www.sanyglobal.com/product/excavator/mini_excavator/,2026-02-15,2.0,,,"{""engine_power_raw"": ""10 kW"", ""tonnage_raw"": ""2 T"", ""bucket_raw"": ""0.1 m³""}"
-Hydrogen,SANY,China,,,,,Excavator,,,,https://www.sanyglobal.com/product/crane/truck_crane/,2026-02-15,30.0,,,"{""tonnage_raw"": ""30 T""}"
+Hydrogen,SANY,China,,29.1,,0.15,Excavator,,,,https://www.sanyglobal.com/product/excavator/mini_excavator/,2026-02-15,1.95,,,"{""engine_power_raw"": ""29.1 kW"", ""tonnage_raw"": ""1.95 T"", ""bucket_raw"": ""0.15 m³""}"
+Hydrogen,SANY,China,,,,,Excavator,,,,https://www.sanyglobal.com/product/crane/truck_crane/,2026-02-15,100.0,,,"{""tonnage_raw"": ""100 tons""}"
 Hydrogen,SANY,China,,,,,Excavator,,,,https://www.sanyglobal.com/press_releases/4842/,2026-02-15,,,,{}
 Hydrogen,SANY,China,,,,,Excavator,,,,https://www.sanyglobal.com/press_releases/4850/,2026-02-15,,,,{}
 Hydrogen,SANY,China,,,,,Excavator,,,,https://www.sanyglobal.com/solution/,2026-02-15,,,,{}

@@ -712,12 +712,12 @@
     "last_seen_utc": "2026-02-13T01:00:23Z",
     "engine_kw": null,
     "bucket_m3": null,
-    "tonnage_t": 0.425,
+    "tonnage_t": 0.086,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"936.6 lbs\"}"
+    "raw_specs": "{\"tonnage_raw\": \"189.3 lbs\"}"
   },
   {
     "power": "Hybrid",
@@ -8894,14 +8894,14 @@
     "link": "https://www.sanyglobal.com/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:05:24Z",
-    "engine_kw": 45.4,
-    "bucket_m3": 0.28,
-    "tonnage_t": 7.5,
+    "engine_kw": 567.0,
+    "bucket_m3": 8.0,
+    "tonnage_t": 36.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"45.4 kW\", \"tonnage_raw\": \"7.5 T\", \"bucket_raw\": \"0.28 m³\"}"
+    "raw_specs": "{\"engine_power_raw\": \"567 kW\", \"tonnage_raw\": \"36 T\", \"bucket_raw\": \"8 m³\"}"
   },
   {
     "power": "Hydrogen",
@@ -9256,12 +9256,12 @@
     "last_seen_utc": "2026-02-13T01:05:36Z",
     "engine_kw": null,
     "bucket_m3": 2.8,
-    "tonnage_t": 16.0,
+    "tonnage_t": 25.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"16 T\", \"bucket_raw\": \"2.8 m³\"}"
+    "raw_specs": "{\"tonnage_raw\": \"25 tons\", \"bucket_raw\": \"2.8 m³\"}"
   },
   {
     "power": "Hydrogen",
@@ -18878,14 +18878,14 @@
     "link": "https://eu.develon-ce.com/en/products/dozers",
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:43:09Z",
-    "engine_kw": 91.0,
-    "bucket_m3": 0.103,
-    "tonnage_t": 11.0,
+    "engine_kw": 117.0,
+    "bucket_m3": 0.132,
+    "tonnage_t": 14.5,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"91.0 kW\", \"tonnage_raw\": \"11 t\", \"bucket_raw\": \"103.5 l\"}"
+    "raw_specs": "{\"engine_power_raw\": \"117 kW\", \"tonnage_raw\": \"14.5 t\", \"bucket_raw\": \"132 l\"}"
   },
   {
     "power": "",
@@ -19262,14 +19262,14 @@
     "link": "https://eu.develon-ce.com/en/products/dozers",
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:43:40Z",
-    "engine_kw": 91.0,
-    "bucket_m3": 0.103,
-    "tonnage_t": 11.0,
+    "engine_kw": 117.0,
+    "bucket_m3": 0.132,
+    "tonnage_t": 14.5,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"91.0 kW\", \"tonnage_raw\": \"11 t\", \"bucket_raw\": \"103.5 l\"}"
+    "raw_specs": "{\"engine_power_raw\": \"117 kW\", \"tonnage_raw\": \"14.5 t\", \"bucket_raw\": \"132 l\"}"
   },
   {
     "power": "",
@@ -19838,14 +19838,14 @@
     "link": "https://www.sanyglobal.com/product/excavator/mini_excavator/",
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:44:43Z",
-    "engine_kw": 10.0,
-    "bucket_m3": 0.1,
-    "tonnage_t": 2.0,
+    "engine_kw": 29.1,
+    "bucket_m3": 0.15,
+    "tonnage_t": 1.95,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"10 kW\", \"tonnage_raw\": \"2 T\", \"bucket_raw\": \"0.1 m³\"}"
+    "raw_specs": "{\"engine_power_raw\": \"29.1 kW\", \"tonnage_raw\": \"1.95 T\", \"bucket_raw\": \"0.15 m³\"}"
   },
   {
     "power": "Hydrogen",
@@ -19864,12 +19864,12 @@
     "last_seen_utc": "2026-02-13T01:05:35Z",
     "engine_kw": null,
     "bucket_m3": null,
-    "tonnage_t": 30.0,
+    "tonnage_t": 100.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"30 T\"}"
+    "raw_specs": "{\"tonnage_raw\": \"100 tons\"}"
   },
   {
     "power": "Hydrogen",
