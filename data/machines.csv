@@ -124,7 +124,7 @@ Battery,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en-us/mining-
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/n/liebherr-aerospace-lindenberg-gmbh-leading-innovation-in-lufo-vii-projects-218944-3782185,2026-02-15,,,,{}
 Battery,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/mobile-and-crawler-cranes/mobile-and-crawler-cranes-4407715,2026-02-15,35.0,,,"{""tonnage_raw"": ""35 tonne""}"
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/careers/careers-4294637,2026-02-15,,,,{}
-,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/,2026-02-15,,,,{}
+,John Deere,USA,,1.491,,,Excavator,,,,https://www.deere.com/en/,2026-02-15,,,,"{""engine_power_raw"": ""2 HP""}"
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/privacy-and-data/accessibility/,2026-02-15,,,,{}
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/government-and-military-sales/,2026-02-15,,,,{}
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/finance/financing/landscaping-grounds-care/,2026-02-15,,,,{}
@@ -144,7 +144,7 @@ Hybrid,John Deere,USA,,,,16.21,Excavator,,,,https://www.deere.com/en/harvesting/
 ,John Deere,USA,,50.0,,,Excavator,,,,https://www.deere.com/en/loaders/skid-steers/,2026-02-15,3.2,,,"{""engine_power_raw"": ""50 kW"", ""tonnage_raw"": ""3200 kg""}"
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/compact-equipment/,2026-02-15,,,,{}
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/forestry-and-logging/,2026-02-15,,,,{}
-,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/,2026-02-15,,,,{}
+,John Deere,USA,,1.491,,,Excavator,,,,https://www.deere.com/en/,2026-02-15,,,,"{""engine_power_raw"": ""2 HP""}"
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/mowers/,2026-02-15,,,,{}
 Hybrid,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/golf-sports-turf/,2026-02-15,,,,{}
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/snowremoval/,2026-02-15,,,,{}
@@ -174,7 +174,7 @@ Hybrid,John Deere,USA,,,,16.21,Excavator,,,,https://www.deere.com/en/harvesting/
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/hay-forage/,2026-02-15,,,,{}
 ,John Deere,USA,,50.0,,,Excavator,,,,https://www.deere.com/en/loaders/skid-steers/,2026-02-15,3.2,,,"{""engine_power_raw"": ""50 kW"", ""tonnage_raw"": ""3200 kg""}"
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/forestry-and-logging/,2026-02-15,,,,{}
-,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/,2026-02-15,,,,{}
+,John Deere,USA,,1.491,,,Excavator,,,,https://www.deere.com/en/,2026-02-15,,,,"{""engine_power_raw"": ""2 HP""}"
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/mowers/,2026-02-15,,,,{}
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/news/all-news/brian-sikes-board/,2026-02-15,,,,{}
 Hybrid,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/golf-sports-turf/,2026-02-15,,,,{}
@@ -369,7 +369,7 @@ Hydrogen,HD Hyundai CE,South Korea,,,,0.36,Excavator,,,,https://www.hyundai-ce.c
 ,HD Hyundai CE,South Korea,,,,0.36,Excavator,,,,https://www.hyundai-ce.com/en/total-search/list?q=MG MC ,2026-02-15,,,,"{""bucket_raw"": ""360 L""}"
 ,HD Hyundai CE,South Korea,,,,0.36,Excavator,,,,https://www.hyundai-ce.com/en/total-search/list?q=HI MATE,2026-02-15,,,,"{""bucket_raw"": ""360 L""}"
 ,HD Hyundai CE,South Korea,,,,0.36,Excavator,,,,https://www.hyundai-ce.com/en/products/view?productsSeq=571,2026-02-15,,,,"{""bucket_raw"": ""360 L""}"
-Hydrogen,SANY,China,,567.0,,8.0,Excavator,,,,https://www.sanyglobal.com/,2026-02-15,36.0,,,"{""engine_power_raw"": ""567 kW"", ""tonnage_raw"": ""36 T"", ""bucket_raw"": ""8 m³""}"
+Hydrogen,SANY,China,,45.4,,0.28,Excavator,,,,https://www.sanyglobal.com/,2026-02-15,7.5,,,"{""engine_power_raw"": ""45.4 kW"", ""tonnage_raw"": ""7.5 T"", ""bucket_raw"": ""0.28 m³""}"
 Hydrogen,SANY,China,,,,,Excavator,,,,https://www.sanyglobal.com/press_releases/4835/,2026-02-15,,,,{}
 Hydrogen,SANY,China,,,,,Excavator,,,,https://www.sanyglobal.com/cases/list-17/,2026-02-15,,,,{}
 Hydrogen,SANY,China,,333.328,,,Excavator,,,,https://www.sanyglobal.com/product/petroleum_equipment/fracking_unit/,2026-02-15,,,,"{""engine_power_raw"": ""447 hp""}"
@@ -653,7 +653,7 @@ Battery,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/parts-and-servi
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/finance/financing/landscaping-grounds-care/multi-use-account/,2026-02-15,,,,{}
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/gator-utility-vehicles/turf-gators/,2026-02-15,0.363,,,"{""tonnage_raw"": ""800 lb""}"
 ,John Deere,USA,,186.425,,38.763,Excavator,,,,https://www.deere.com/en/agriculture/,2026-02-15,1100.0,,,"{""engine_power_raw"": ""250 HP"", ""tonnage_raw"": ""1100 T"", ""bucket_raw"": ""38,763 L""}"
-,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/,2026-02-15,,,,{}
+,John Deere,USA,,1.491,,,Excavator,,,,https://www.deere.com/,2026-02-15,,,,"{""engine_power_raw"": ""2 HP""}"
 Hybrid,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/gator-utility-vehicles/,2026-02-15,1.814,,,"{""tonnage_raw"": ""1814 kg""}"
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/finance/financing/lawn-garden/gator-utility-vehicles/,2026-02-15,,,,{}
 Hybrid,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/drivetrain-components/axles/,2026-02-15,24.494,,,"{""tonnage_raw"": ""54,000 lb""}"
@@ -681,7 +681,7 @@ Battery,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/parts-and-servi
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/gator-utility-vehicles/turf-gators/,2026-02-15,0.363,,,"{""tonnage_raw"": ""800 lb""}"
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/stories/featured/pbs-feature/,2026-02-15,,,,{}
 ,John Deere,USA,,186.425,,38.763,Excavator,,,,https://www.deere.com/en/agriculture/,2026-02-15,1100.0,,,"{""engine_power_raw"": ""250 HP"", ""tonnage_raw"": ""1100 T"", ""bucket_raw"": ""38,763 L""}"
-,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/,2026-02-15,,,,{}
+,John Deere,USA,,1.491,,,Excavator,,,,https://www.deere.com/,2026-02-15,,,,"{""engine_power_raw"": ""2 HP""}"
 Hybrid,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/gator-utility-vehicles/,2026-02-15,1.814,,,"{""tonnage_raw"": ""1814 kg""}"
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/finance/financing/lawn-garden/gator-utility-vehicles/,2026-02-15,,,,{}
 Hybrid,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/drivetrain-components/axles/,2026-02-15,24.494,,,"{""tonnage_raw"": ""54,000 lb""}"
