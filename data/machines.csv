@@ -400,13 +400,13 @@ Hydrogen,SANY,China,,,,,Excavator,,,,https://www.sanyglobal.com/press_releases/4
 Hydrogen,SANY,China,,,,,Excavator,,,,https://www.sanyglobal.com/product/hydrogen_energy_equipment/hydrogen_production_equipment/,2026-02-15,,,,{}
 Hydrogen,SANY,China,,,,0.08,Excavator,,,,https://www.sanyglobal.com/product/fire-fighting_&_rescue/water_tower_fire_truck/,2026-02-15,,,,"{""bucket_raw"": ""80 L""}"
 Hydrogen,SANY,China,,,,,Excavator,,,,https://www.sanyglobal.com/press_releases/4851/,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/,2026-02-15,,,,{}
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1001000414&erCatId=0&sanCatId=0,2026-02-15,,,,{}
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/case/case.htm,2026-02-15,,,,{}
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1001000236,2026-02-15,,,,{}
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-detail-121046.htm,2026-02-15,,,,{}
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/aboutus/history.htm,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/core/control/wcm_common_member/login.jsp?method=logout,2026-02-15,,,,{}
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/core/control/wcm_common_member/login.jsp?method=logout,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1658&erCatId=0&sanCatId=0,2026-02-15,,,,{}
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1001000304,2026-02-15,,,,{}
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/aboutus/contact-us.htm,2026-02-15,,,,{}
@@ -867,7 +867,7 @@ Battery,Terex,Global,,,,,Dump truck,,,,https://www.terex.com/en/equipment-old,20
 Hybrid,Terex,Global,,,,,Dump truck,,,,https://www.terex.com/en/footer/careers/view-job-openings,2026-02-15,,,,{}
 Battery,Terex,Global,,,,,Dump truck,,,,http://www.terex.com/es/inicio,2026-02-15,,,,{}
 ,XEMC,China,,,,,Dump truck,,,,http://www.xemc.com.cn/product/index/service.html,2026-02-15,,,,{}
-,CRRC,China,,280.0,,,Mining,,,,https://www.crrcgc.cc/en,2026-02-15,,,,"{""engine_power_raw"": ""280 kW""}"
+,CRRC,China,,300.0,,,Mining,,,,https://www.crrcgc.cc/en,2026-02-15,,,,"{""engine_power_raw"": ""300 kW""}"
 ,Yutong,China,,,,,Excavator,,,,https://en.yutong.com/contact/,2026-02-15,,,,{}
 Battery,Yutong,China,,,,,Excavator,,,,https://en.yutong.com/pressmedia/news/yutong-news/2026/2020689930304491520.shtml,,,,,error: 404 Client Error: Not Found for url: https://en.yutong.com/pressmedia/news/yutong-news/2026/2020689930304491520.shtml
 ,Yutong,China,,,,,Excavator,,,,https://en.yutong.com/about/our-market/yutong-in-africa/,2026-02-15,,,,{}

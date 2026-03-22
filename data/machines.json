@@ -9640,12 +9640,12 @@
     "last_seen_utc": "2026-02-13T01:05:47Z",
     "engine_kw": null,
     "bucket_m3": null,
-    "tonnage_t": null,
+    "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\"}"
   },
   {
     "power": "",
@@ -9784,12 +9784,12 @@
     "last_seen_utc": "2026-02-13T01:06:30Z",
     "engine_kw": null,
     "bucket_m3": null,
-    "tonnage_t": null,
+    "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\"}"
   },
   {
     "power": "",
@@ -20846,14 +20846,14 @@
     "link": "https://www.crrcgc.cc/en",
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:52:50Z",
-    "engine_kw": 280.0,
+    "engine_kw": 300.0,
     "bucket_m3": null,
     "tonnage_t": null,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"280 kW\"}"
+    "raw_specs": "{\"engine_power_raw\": \"300 kW\"}"
   },
   {
     "power": "",
