@@ -369,7 +369,7 @@ Hydrogen,HD Hyundai CE,South Korea,,,,0.36,Excavator,,,,https://www.hyundai-ce.c
 ,HD Hyundai CE,South Korea,,,,0.36,Excavator,,,,https://www.hyundai-ce.com/en/total-search/list?q=MG MC ,2026-02-15,,,,"{""bucket_raw"": ""360 L""}"
 ,HD Hyundai CE,South Korea,,,,0.36,Excavator,,,,https://www.hyundai-ce.com/en/total-search/list?q=HI MATE,2026-02-15,,,,"{""bucket_raw"": ""360 L""}"
 ,HD Hyundai CE,South Korea,,,,0.36,Excavator,,,,https://www.hyundai-ce.com/en/products/view?productsSeq=571,2026-02-15,,,,"{""bucket_raw"": ""360 L""}"
-Hydrogen,SANY,China,,45.4,,0.28,Excavator,,,,https://www.sanyglobal.com/,2026-02-15,7.5,,,"{""engine_power_raw"": ""45.4 kW"", ""tonnage_raw"": ""7.5 T"", ""bucket_raw"": ""0.28 m³""}"
+Hydrogen,SANY,China,,567.0,,8.0,Excavator,,,,https://www.sanyglobal.com/,2026-02-15,36.0,,,"{""engine_power_raw"": ""567 kW"", ""tonnage_raw"": ""36 T"", ""bucket_raw"": ""8 m³""}"
 Hydrogen,SANY,China,,,,,Excavator,,,,https://www.sanyglobal.com/press_releases/4835/,2026-02-15,,,,{}
 Hydrogen,SANY,China,,,,,Excavator,,,,https://www.sanyglobal.com/cases/list-17/,2026-02-15,,,,{}
 Hydrogen,SANY,China,,333.328,,,Excavator,,,,https://www.sanyglobal.com/product/petroleum_equipment/fracking_unit/,2026-02-15,,,,"{""engine_power_raw"": ""447 hp""}"
@@ -401,35 +401,35 @@ Hydrogen,SANY,China,,,,,Excavator,,,,https://www.sanyglobal.com/product/hydrogen
 Hydrogen,SANY,China,,,,0.08,Excavator,,,,https://www.sanyglobal.com/product/fire-fighting_&_rescue/water_tower_fire_truck/,2026-02-15,,,,"{""bucket_raw"": ""80 L""}"
 Hydrogen,SANY,China,,,,,Excavator,,,,https://www.sanyglobal.com/press_releases/4851/,2026-02-15,,,,{}
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1001000414&erCatId=0&sanCatId=0,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/case/case.htm,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1001000236,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-detail-121046.htm,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/aboutus/history.htm,2026-02-15,,,,{}
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1001000414&erCatId=0&sanCatId=0,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/case/case.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1001000236,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-detail-121046.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/aboutus/history.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/core/control/wcm_common_member/login.jsp?method=logout,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1658&erCatId=0&sanCatId=0,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1001000304,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/aboutus/contact-us.htm,2026-02-15,,,,{}
-Battery,XCMG,China,,,,0.26,Wheel loader,,,,https://www.xcmg.com/site/search.htm?keywords=XE200GH挖掘机,2026-02-15,4.0,,,"{""tonnage_raw"": ""4 T"", ""bucket_raw"": ""260 L""}"
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/aboutus/news-detail-1128669.htm,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/aboutus/video.htm,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=32204,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/aftermarket/wenchuang.htm,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1001000343,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1001000236&erCatId=0&sanCatId=0,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1875&erCatId=0&sanCatId=0,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/aboutus/news.htm,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1001000343&erCatId=0&sanCatId=0,2026-02-15,,,,{}
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1658&erCatId=0&sanCatId=0,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1001000304,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/aboutus/contact-us.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+Battery,XCMG,China,,,,0.26,Wheel loader,,,,https://www.xcmg.com/site/search.htm?keywords=XE200GH挖掘机,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T"", ""bucket_raw"": ""260 L""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/aboutus/news-detail-1128669.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/aboutus/video.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=32204,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/aftermarket/wenchuang.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1001000343,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1001000236&erCatId=0&sanCatId=0,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1875&erCatId=0&sanCatId=0,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/aboutus/news.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1001000343&erCatId=0&sanCatId=0,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/aboutus/previewnews-detail-1128550.htm,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1867,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1867&erCatId=0&sanCatId=0,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/aboutus/job_center.htm,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/financial/financial-programmes.htm,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=34865&erCatId=0&sanCatId=0,2026-02-15,,,,{}
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1867,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1867&erCatId=0&sanCatId=0,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/aboutus/job_center.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/financial/financial-programmes.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=34865&erCatId=0&sanCatId=0,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/event/event-podcasts.htm,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1001034534&erCatId=0&sanCatId=0,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1001000304&erCatId=0&sanCatId=0,2026-02-15,,,,{}
-,XCMG,China,,242.0,,,Wheel loader,,,,https://www.xcmg.com/product/pro-detail-120952.htm,2026-02-15,1855.0,,,"{""engine_power_raw"": ""242 kW"", ""tonnage_raw"": ""1855 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1001034534&erCatId=0&sanCatId=0,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1001000304&erCatId=0&sanCatId=0,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,242.0,,,Wheel loader,,,,https://www.xcmg.com/product/pro-detail-120952.htm,2026-02-15,610.0,,,"{""engine_power_raw"": ""242 kW"", ""tonnage_raw"": ""610 T""}"
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/solution/road-construction.htm,2026-02-15,135.0,,,"{""tonnage_raw"": ""135 T""}"
 Battery,Terex,Global,,,,,Dump truck,,,,https://www.terex.com/,2026-02-15,,,,{}
 Battery,Terex,Global,,,,,Dump truck,,,,https://www.terex.com/en/company/news,2026-02-15,,,,{}
@@ -833,28 +833,28 @@ Hydrogen,SANY,China,,,,,Excavator,,,,https://www.sanyglobal.com/solution/,2026-0
 Hydrogen,SANY,China,,45.4,,0.28,Excavator,,,,https://www.sanyglobal.com/product/excavator/small_excavator/110/,2026-02-15,7.5,,,"{""engine_power_raw"": ""45.4 kW"", ""tonnage_raw"": ""7.5 T"", ""bucket_raw"": ""0.28 m³""}"
 Hydrogen,SANY,China,,,,,Excavator,,,,https://www.sanyglobal.com/product/photovoltaics/solarcells2/,2026-02-15,,,,{}
 Hydrogen,SANY,China,,,,135.0,Excavator,,,,https://www.sanyglobal.com/product/concrete_machinery/truck-mounted_concrete_pump/,2026-02-15,,,,"{""bucket_raw"": ""135 m³""}"
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1707&erCatId=0&sanCatId=0,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/order/,2026-02-15,,,,{}
-,XCMG,China,,240.0,,,Wheel loader,,,,https://www.xcmg.com/product/pro-detail-121076.htm,2026-02-15,,,,"{""engine_power_raw"": ""240 kW""}"
-Battery,XCMG,China,,,,0.26,Wheel loader,,,,https://www.xcmg.com/site/search.htm?keywords=大吨位XCA350L8起重机,2026-02-15,4.0,,,"{""tonnage_raw"": ""4 T"", ""bucket_raw"": ""260 L""}"
-,XCMG,China,,5219.9,,2.4,Wheel loader,,,,https://www.xcmg.com/product/pro-detail-138352.htm,2026-02-15,,,,"{""engine_power_raw"": ""7000 HP"", ""bucket_raw"": ""2.4 m³""}"
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/service/distributor.html,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1875,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1002000025,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/solution/wind-power-installation.htm,2026-02-15,160.0,,,"{""tonnage_raw"": ""160 t""}"
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/event/pro_evaluation.htm,2026-02-15,0.23,,,"{""tonnage_raw"": ""230 kg""}"
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-detail-138357.htm,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/aboutus/media.htm,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-detail-138355.htm,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/m_proCenter.htm,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/solution/safety-rescue.htm,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/info/xin-xi-gong-shi.htm,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1001000452&erCatId=0&sanCatId=0,2026-02-15,,,,{}
-,XCMG,China,,,,0.22,Wheel loader,,,,https://www.xcmg.com/product/pro-detail-138362.htm,2026-02-15,10.6,,,"{""tonnage_raw"": ""10600 kg"", ""bucket_raw"": ""220 L""}"
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/solution/bridge-construction.htm,2026-02-15,,,,{}
-Battery,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/solution/sanitation.htm,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/part/part-list.htm,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-detail-138356.htm,2026-02-15,,,,{}
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1707&erCatId=0&sanCatId=0,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/order/,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,240.0,,,Wheel loader,,,,https://www.xcmg.com/product/pro-detail-121076.htm,2026-02-15,610.0,,,"{""engine_power_raw"": ""240 kW"", ""tonnage_raw"": ""610 T""}"
+Battery,XCMG,China,,,,0.26,Wheel loader,,,,https://www.xcmg.com/site/search.htm?keywords=大吨位XCA350L8起重机,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T"", ""bucket_raw"": ""260 L""}"
+,XCMG,China,,5219.9,,2.4,Wheel loader,,,,https://www.xcmg.com/product/pro-detail-138352.htm,2026-02-15,610.0,,,"{""engine_power_raw"": ""7000 HP"", ""bucket_raw"": ""2.4 m³"", ""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/service/distributor.html,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1875,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1002000025,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/solution/wind-power-installation.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/event/pro_evaluation.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-detail-138357.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/aboutus/media.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-detail-138355.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/m_proCenter.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/solution/safety-rescue.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/info/xin-xi-gong-shi.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1001000452&erCatId=0&sanCatId=0,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,0.22,Wheel loader,,,,https://www.xcmg.com/product/pro-detail-138362.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T"", ""bucket_raw"": ""220 L""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/solution/bridge-construction.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+Battery,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/solution/sanitation.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/part/part-list.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-detail-138356.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
 Battery,Terex,Global,,,,,Dump truck,,,,http://www.terex.com/fr/home,2026-02-15,,,,{}
 Battery,Terex,Global,,,,,Dump truck,,,,https://www.terex.com/find-a-dealer,2026-02-15,,,,{}
 Battery,Terex,Global,,,,,Dump truck,,,,http://www.terex.com/pt-br/home,2026-02-15,,,,{}
@@ -1062,18 +1062,18 @@ Battery,Develon,South Korea,,298.28,,,Excavator,,,,https://eu.develon-ce.com/en/
 ,HD Hyundai CE,South Korea,,,,0.36,Excavator,,,,https://www.hyundai-ce.com/en/online/inquiry,2026-02-15,,,,"{""bucket_raw"": ""360 L""}"
 ,HD Hyundai CE,South Korea,,,,0.36,Excavator,,,,https://www.hyundai-ce.com/en/products/view?productsSeq=376,2026-02-15,,,,"{""bucket_raw"": ""360 L""}"
 ,HD Hyundai CE,South Korea,,,,0.36,Excavator,,,,https://www.hyundai-ce.com/en/agency/domestic?type=maintenance,2026-02-15,,,,"{""bucket_raw"": ""360 L""}"
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1658,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/solution/new-energy.htm,2026-02-15,,,,{}
-Battery,XCMG,China,,,,0.26,Wheel loader,,,,https://www.xcmg.com/site/search.htm?keywords=XCT968-EV装载机,2026-02-15,4.0,,,"{""tonnage_raw"": ""4 T"", ""bucket_raw"": ""260 L""}"
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1714,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/aftermarket/find-dealers.htm,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=32204&erCatId=0&sanCatId=0,2026-02-15,,,,{}
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1658,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/solution/new-energy.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+Battery,XCMG,China,,,,0.26,Wheel loader,,,,https://www.xcmg.com/site/search.htm?keywords=XCT968-EV装载机,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T"", ""bucket_raw"": ""260 L""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1714,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/aftermarket/find-dealers.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=32204&erCatId=0&sanCatId=0,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com//aboutus/previewnews-detail-1128663.htm,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/site/legal-notices.htm,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1866,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/solution/opencast-mining.htm,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/aboutus/about.htm,2026-02-15,,,,{}
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/order/?pid=119739,2026-02-15,,,,{}
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/site/legal-notices.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1866,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/solution/opencast-mining.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/aboutus/about.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/order/?pid=119739,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
 Battery,Terex,Global,,,,,Dump truck,,,,https://www.terex.com/en/footer/sustainability/social-sustainability,2026-02-15,,,,{}
 Battery,Terex,Global,,,,,Dump truck,,,,http://www.terex.com/zh/home,2026-02-15,,,,{}
 Hybrid,Terex,Global,,,,,Dump truck,,,,https://www.terex.com/en/investors,2026-02-15,,,,{}
@@ -1095,7 +1095,7 @@ Hybrid,Yutong,China,,,,0.15,Excavator,,,,https://en.yutong.com/products/H10.shtm
 ,Yutong,China,,,,,Excavator,,,,https://en.yutong.com/products/C11.shtml,2026-02-15,,,,{}
 Battery,Yutong,China,,,,,Excavator,,,,https://en.yutong.com/products/E11PRO.shtml,2026-02-15,,,,{}
 Battery,Yutong,China,,,,,Excavator,,,,https://en.yutong.com/pressmedia/news/,2026-02-15,,,,{}
-Battery,Yutong,China,,,,,Excavator,,,,https://en.yutong.com/about/sustainability/,2026-02-15,167921.0,,,"{""tonnage_raw"": ""167921 Tons""}"
+Battery,Yutong,China,,,,,Excavator,,,,https://en.yutong.com/about/sustainability/,2026-02-15,184968.0,,,"{""tonnage_raw"": ""184968 Tons""}"
 ,Yutong,China,,,,,Excavator,,,,https://en.yutong.com/products/special-vehicles/,2026-02-15,,,,{}
 Hydrogen,Doosan,Korea,,,,,Excavator,,,,https://www.doosan.com/en#HEADER,2026-02-15,,,,{}
 Hydrogen,Doosan,Korea,,,,,Excavator,,,,https://www.doosan.com/en/media-center/press-release_view?id=20172761,2026-02-15,,,,{}
