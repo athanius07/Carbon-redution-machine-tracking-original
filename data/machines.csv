@@ -70,7 +70,7 @@ Hybrid,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group/about-liebherr/liebherr-worldwide/liebherr-worldwide-3877672,2026-02-15,,,,{}
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/cross-entry-point/en-us-us/corp_imprint,2026-02-15,,,,{}
 Hybrid,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en-us/n/hands-on-the-future-at-conexpo-2026-liebherr-previews-expanded-portfolio-and-digital-solutions-221248-3782185,2026-02-15,,,,{}
-Hybrid,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en-us/group/news/news-and-press-releases/news-and-press-releases-3782184,2026-02-15,1400.0,,,"{""tonnage_raw"": ""1,400 tonnes""}"
+Hybrid,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en-us/group/news/news-and-press-releases/news-and-press-releases-3782184,2026-02-15,60.0,,,"{""tonnage_raw"": ""60 tonnes""}"
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group/about-liebherr/services/sales-and-service-partners/sales-and-service-3781939,2026-02-15,,,,{}
 Hybrid,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/tower-cranes/tower-cranes-4356108,2026-02-15,100.0,,,"{""tonnage_raw"": ""100 tons""}"
 Hybrid,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/maritime-cranes/liebherr-maritime-4433440,2026-02-15,1600.0,,,"{""tonnage_raw"": ""1,600 tonnes""}"
@@ -100,7 +100,7 @@ Hybrid,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group/about-liebherr/liebherr-worldwide/liebherr-worldwide-3877672,2026-02-15,,,,{}
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/cross-entry-point/en-us-us/corp_imprint,2026-02-15,,,,{}
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group/about-liebherr/services/sales-and-service-partners/sales-and-service-3781939,2026-02-15,,,,{}
-Hybrid,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en-us/group/news/news-and-press-releases/news-and-press-releases-3782184,2026-02-15,1400.0,,,"{""tonnage_raw"": ""1,400 tonnes""}"
+Hybrid,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en-us/group/news/news-and-press-releases/news-and-press-releases-3782184,2026-02-15,60.0,,,"{""tonnage_raw"": ""60 tonnes""}"
 Hybrid,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/tower-cranes/tower-cranes-4356108,2026-02-15,100.0,,,"{""tonnage_raw"": ""100 tons""}"
 Hybrid,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/maritime-cranes/liebherr-maritime-4433440,2026-02-15,1600.0,,,"{""tonnage_raw"": ""1,600 tonnes""}"
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/n/global-cooperation-liebherr-and-yuchai-power-join-forces-221760-3782185,2026-02-15,,,,{}
@@ -429,7 +429,7 @@ Battery,XCMG,China,,,,0.26,Wheel loader,,,,https://www.xcmg.com/site/search.htm?
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/event/event-podcasts.htm,2026-02-15,,,,{}
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1001034534&erCatId=0&sanCatId=0,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1001000304&erCatId=0&sanCatId=0,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
-,XCMG,China,,242.0,,,Wheel loader,,,,https://www.xcmg.com/product/pro-detail-120952.htm,2026-02-15,610.0,,,"{""engine_power_raw"": ""242 kW"", ""tonnage_raw"": ""610 T""}"
+,XCMG,China,,242.0,,,Wheel loader,,,,https://www.xcmg.com/product/pro-detail-120952.htm,2026-02-15,1855.0,,,"{""engine_power_raw"": ""242 kW"", ""tonnage_raw"": ""1855 T""}"
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/solution/road-construction.htm,2026-02-15,135.0,,,"{""tonnage_raw"": ""135 T""}"
 Battery,Terex,Global,,,,,Dump truck,,,,https://www.terex.com/,2026-02-15,,,,{}
 Battery,Terex,Global,,,,,Dump truck,,,,https://www.terex.com/en/company/news,2026-02-15,,,,{}
@@ -841,8 +841,8 @@ Battery,XCMG,China,,,,0.26,Wheel loader,,,,https://www.xcmg.com/site/search.htm?
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/service/distributor.html,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1875,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1002000025,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/solution/wind-power-installation.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
-,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/event/pro_evaluation.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/solution/wind-power-installation.htm,2026-02-15,220.0,,,"{""tonnage_raw"": ""220 t""}"
+,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/event/pro_evaluation.htm,2026-02-15,0.23,,,"{""tonnage_raw"": ""230 kg""}"
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-detail-138357.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/aboutus/media.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-detail-138355.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
@@ -850,7 +850,7 @@ Battery,XCMG,China,,,,0.26,Wheel loader,,,,https://www.xcmg.com/site/search.htm?
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/solution/safety-rescue.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/info/xin-xi-gong-shi.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1001000452&erCatId=0&sanCatId=0,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
-,XCMG,China,,,,0.22,Wheel loader,,,,https://www.xcmg.com/product/pro-detail-138362.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T"", ""bucket_raw"": ""220 L""}"
+,XCMG,China,,,,0.22,Wheel loader,,,,https://www.xcmg.com/product/pro-detail-138362.htm,2026-02-15,10.6,,,"{""tonnage_raw"": ""10600 kg"", ""bucket_raw"": ""220 L""}"
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/solution/bridge-construction.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
 Battery,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/solution/sanitation.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/part/part-list.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
@@ -867,7 +867,7 @@ Battery,Terex,Global,,,,,Dump truck,,,,https://www.terex.com/en/equipment-old,20
 Hybrid,Terex,Global,,,,,Dump truck,,,,https://www.terex.com/en/footer/careers/view-job-openings,2026-02-15,,,,{}
 Battery,Terex,Global,,,,,Dump truck,,,,http://www.terex.com/es/inicio,2026-02-15,,,,{}
 ,XEMC,China,,,,,Dump truck,,,,http://www.xemc.com.cn/product/index/service.html,2026-02-15,,,,{}
-,CRRC,China,,300.0,,,Mining,,,,https://www.crrcgc.cc/en,2026-02-15,,,,"{""engine_power_raw"": ""300 kW""}"
+,CRRC,China,,280.0,,,Mining,,,,https://www.crrcgc.cc/en,2026-02-15,,,,"{""engine_power_raw"": ""280 kW""}"
 ,Yutong,China,,,,,Excavator,,,,https://en.yutong.com/contact/,2026-02-15,,,,{}
 Battery,Yutong,China,,,,,Excavator,,,,https://en.yutong.com/pressmedia/news/yutong-news/2026/2020689930304491520.shtml,,,,,error: 404 Client Error: Not Found for url: https://en.yutong.com/pressmedia/news/yutong-news/2026/2020689930304491520.shtml
 ,Yutong,China,,,,,Excavator,,,,https://en.yutong.com/about/our-market/yutong-in-africa/,2026-02-15,,,,{}
