@@ -369,7 +369,7 @@ Hydrogen,HD Hyundai CE,South Korea,,,,0.36,Excavator,,,,https://www.hyundai-ce.c
 ,HD Hyundai CE,South Korea,,,,0.36,Excavator,,,,https://www.hyundai-ce.com/en/total-search/list?q=MG MC ,2026-02-15,,,,"{""bucket_raw"": ""360 L""}"
 ,HD Hyundai CE,South Korea,,,,0.36,Excavator,,,,https://www.hyundai-ce.com/en/total-search/list?q=HI MATE,2026-02-15,,,,"{""bucket_raw"": ""360 L""}"
 ,HD Hyundai CE,South Korea,,,,0.36,Excavator,,,,https://www.hyundai-ce.com/en/products/view?productsSeq=571,2026-02-15,,,,"{""bucket_raw"": ""360 L""}"
-Hydrogen,SANY,China,,567.0,,8.0,Excavator,,,,https://www.sanyglobal.com/,2026-02-15,36.0,,,"{""engine_power_raw"": ""567 kW"", ""tonnage_raw"": ""36 T"", ""bucket_raw"": ""8 m³""}"
+Hydrogen,SANY,China,,45.4,,0.28,Excavator,,,,https://www.sanyglobal.com/,2026-02-15,7.5,,,"{""engine_power_raw"": ""45.4 kW"", ""tonnage_raw"": ""7.5 T"", ""bucket_raw"": ""0.28 m³""}"
 Hydrogen,SANY,China,,,,,Excavator,,,,https://www.sanyglobal.com/press_releases/4835/,2026-02-15,,,,{}
 Hydrogen,SANY,China,,,,,Excavator,,,,https://www.sanyglobal.com/cases/list-17/,2026-02-15,,,,{}
 Hydrogen,SANY,China,,333.328,,,Excavator,,,,https://www.sanyglobal.com/product/petroleum_equipment/fracking_unit/,2026-02-15,,,,"{""engine_power_raw"": ""447 hp""}"
@@ -800,7 +800,7 @@ Battery,Develon,South Korea,,,,,Excavator,,,,https://eu.develon-ce.com/en/fairs-
 ,Develon,South Korea,,106.0,,2.0,Excavator,,,,https://eu.develon-ce.com/en/machines/dl200-7,2026-02-15,0.01,,,"{""engine_power_raw"": ""106 kW"", ""tonnage_raw"": ""10.124 kg"", ""bucket_raw"": ""2.0 m³""}"
 ,Develon,South Korea,,240.0,,4.5,Excavator,,,,https://eu.develon-ce.com/en/machines/dl420cvt-7,2026-02-15,0.019,,,"{""engine_power_raw"": ""240 kW"", ""tonnage_raw"": ""18.696 kg"", ""bucket_raw"": ""4.5 m³""}"
 ,Develon,South Korea,,,,,Excavator,,,,https://eu.develon-ce.com/en/industries/quarry-and-mining,2026-02-15,,,,{}
-,Develon,South Korea,,,,,Excavator,,,,https://eu.develon-ce.com/en/news?page=2,2026-02-15,21.0,,,"{""tonnage_raw"": ""21 tonne""}"
+,Develon,South Korea,,,,,Excavator,,,,https://eu.develon-ce.com/en/news?page=2,2026-02-15,50.0,,,"{""tonnage_raw"": ""50 t""}"
 ,Develon,South Korea,,117.0,,0.132,Excavator,,,,https://eu.develon-ce.com/en/products/dozers,2026-02-15,14.5,,,"{""engine_power_raw"": ""117 kW"", ""tonnage_raw"": ""14.5 t"", ""bucket_raw"": ""132 l""}"
 ,Develon,South Korea,,140.937,,,Excavator,,,,https://eu.develon-ce.com/en/products/tunneling-machines,2026-02-15,0.689,,,"{""engine_power_raw"": ""189 hp"", ""tonnage_raw"": ""689 kg""}"
 Hybrid,Develon,South Korea,,11.8,,25.7,Excavator,,,,https://eu.develon-ce.com/en/machines/da45-7,2026-02-15,41.0,,,"{""engine_power_raw"": ""11.8 kW"", ""tonnage_raw"": ""41 t"", ""bucket_raw"": ""25.7 m³""}"
