@@ -5416,12 +5416,12 @@
     "last_seen_utc": "2026-02-10T06:01:32Z",
     "engine_kw": null,
     "bucket_m3": null,
-    "tonnage_t": null,
+    "tonnage_t": 270.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{}"
+    "raw_specs": "{\"tonnage_raw\": \"270 T\"}"
   },
   {
     "power": "Hydrogen",
@@ -6160,12 +6160,12 @@
     "last_seen_utc": "2026-02-10T06:01:52Z",
     "engine_kw": null,
     "bucket_m3": null,
-    "tonnage_t": null,
+    "tonnage_t": 270.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{}"
+    "raw_specs": "{\"tonnage_raw\": \"270 T\"}"
   },
   {
     "power": "Hydrogen",
