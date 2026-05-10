@@ -8894,14 +8894,14 @@
     "link": "https://www.sanyglobal.com/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:05:24Z",
-    "engine_kw": 567.0,
-    "bucket_m3": 8.0,
-    "tonnage_t": 36.0,
+    "engine_kw": 45.4,
+    "bucket_m3": 0.28,
+    "tonnage_t": 7.5,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"567 kW\", \"tonnage_raw\": \"36 T\", \"bucket_raw\": \"8 m³\"}"
+    "raw_specs": "{\"engine_power_raw\": \"45.4 kW\", \"tonnage_raw\": \"7.5 T\", \"bucket_raw\": \"0.28 m³\"}"
   },
   {
     "power": "Hydrogen",
@@ -17272,12 +17272,12 @@
     "last_seen_utc": "2026-02-10T06:42:02Z",
     "engine_kw": null,
     "bucket_m3": null,
-    "tonnage_t": 20.0,
+    "tonnage_t": 10.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"20 T\"}"
+    "raw_specs": "{\"tonnage_raw\": \"10 tonne\"}"
   },
   {
     "power": "Hydrogen",
@@ -17872,12 +17872,12 @@
     "last_seen_utc": "2026-02-10T06:42:19Z",
     "engine_kw": null,
     "bucket_m3": null,
-    "tonnage_t": 20.0,
+    "tonnage_t": 10.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"20 T\"}"
+    "raw_specs": "{\"tonnage_raw\": \"10 tonne\"}"
   },
   {
     "power": "Hydrogen",
