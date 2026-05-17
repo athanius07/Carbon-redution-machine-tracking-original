@@ -5920,12 +5920,12 @@
     "last_seen_utc": "2026-02-13T01:02:55Z",
     "engine_kw": null,
     "bucket_m3": null,
-    "tonnage_t": null,
+    "tonnage_t": 50.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{}"
+    "raw_specs": "{\"tonnage_raw\": \"50 tonne\"}"
   },
   {
     "power": "Hydrogen",
@@ -7406,14 +7406,14 @@
     "link": "https://eu.develon-ce.com/en/news",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:04:03Z",
-    "engine_kw": null,
+    "engine_kw": 104.398,
     "bucket_m3": null,
     "tonnage_t": 50.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"50 t\"}"
+    "raw_specs": "{\"tonnage_raw\": \"50 t\", \"engine_power_raw\": \"140 HP\"}"
   },
   {
     "power": "",
@@ -17800,12 +17800,12 @@
     "last_seen_utc": "2026-02-10T06:42:15Z",
     "engine_kw": null,
     "bucket_m3": null,
-    "tonnage_t": 40.0,
+    "tonnage_t": 52.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"40 tonnes\"}"
+    "raw_specs": "{\"tonnage_raw\": \"52 tonnes\"}"
   },
   {
     "power": "Hydrogen",
@@ -18424,12 +18424,12 @@
     "last_seen_utc": "2026-02-10T06:42:32Z",
     "engine_kw": null,
     "bucket_m3": null,
-    "tonnage_t": 40.0,
+    "tonnage_t": 52.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"40 tonnes\"}"
+    "raw_specs": "{\"tonnage_raw\": \"52 tonnes\"}"
   },
   {
     "power": "Hydrogen",

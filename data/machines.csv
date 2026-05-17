@@ -245,7 +245,7 @@ Hydrogen,JCB,UK,,,,,Excavator,,,,https://www.jcb.com/en-GB/industries/waste-and-
 Hydrogen,JCB,UK,,,,,Excavator,,,,https://www.jcb.com/en-GB/industries/,2026-02-15,,,,{}
 Hydrogen,JCB,UK,,,,,Excavator,,,,https://www.jcb.com/en-GB/products/machines/compact-track-loaders/,2026-02-15,,,,{}
 Hydrogen,JCB,UK,,,,,Excavator,,,,https://www.jcb.com/#main,2026-02-15,,,,{}
-Hydrogen,JCB,UK,,,,,Excavator,,,,https://www.jcb.com/en-gb/news,2026-02-15,,,,{}
+Hydrogen,JCB,UK,,,,,Excavator,,,,https://www.jcb.com/en-gb/news,2026-02-15,50.0,,,"{""tonnage_raw"": ""50 tonne""}"
 Hydrogen,JCB,UK,,,,,Excavator,,,,https://www.jcb.com/en-GB/parts-and-service/parts/,2026-02-15,,,,{}
 Hydrogen,JCB,UK,,,,,Excavator,,,,https://www.jcb.com/en-GB/products/machines/articulated-booms/,2026-02-15,,,,{}
 Hydrogen,JCB,UK,,,,,Excavator,,,,https://www.jcb.com/en-GB/industries/municipalities/waste-and-recycling/,2026-02-15,,,,{}
@@ -307,7 +307,7 @@ Battery,Develon,South Korea,,,,,Excavator,,,,https://eu.develon-ce.com/en/innova
 ,Develon,South Korea,,36.4,,0.16,Excavator,,,,https://eu.develon-ce.com/en/machines/dx50z,2026-02-15,5.438,,,"{""engine_power_raw"": ""36.4 kW"", ""tonnage_raw"": ""5438 kg"", ""bucket_raw"": ""0.16 m3""}"
 ,Develon,South Korea,,,,,Excavator,,,,https://eu.develon-ce.com/en/machines/pins-kits,2026-02-15,0.022,,,"{""tonnage_raw"": ""22.4 kg""}"
 ,Develon,South Korea,,,,0.015,Excavator,,,,https://eu.develon-ce.com/en/machines/hydraulic-breakers-hb-series,2026-02-15,,,,"{""bucket_raw"": ""15 l""}"
-Battery,Develon,South Korea,,,,,Excavator,,,,https://eu.develon-ce.com/en/news,2026-02-15,50.0,,,"{""tonnage_raw"": ""50 t""}"
+Battery,Develon,South Korea,,104.398,,,Excavator,,,,https://eu.develon-ce.com/en/news,2026-02-15,50.0,,,"{""tonnage_raw"": ""50 t"", ""engine_power_raw"": ""140 HP""}"
 ,Develon,South Korea,,,,,Excavator,,,,https://eu.develon-ce.com/en/products/engines,2026-02-15,,,,{}
 ,Develon,South Korea,,113.346,,0.59,Excavator,,,,https://eu.develon-ce.com/en/machines/dx140w-7k,2026-02-15,0.016,,,"{""engine_power_raw"": ""152 hp"", ""tonnage_raw"": ""15.800 kg"", ""bucket_raw"": ""0.59 m³""}"
 ,Develon,South Korea,,75.0,,0.28,Excavator,,,,https://eu.develon-ce.com/en/products/wheel-excavators,2026-02-15,0.011,,,"{""engine_power_raw"": ""75 kW"", ""tonnage_raw"": ""11.100 kg"", ""bucket_raw"": ""0.28 m3""}"
@@ -740,7 +740,7 @@ Hydrogen,JCB,UK,,,,,Excavator,,,,https://www.jcb.com/en-GB/industries/electric-s
 Hydrogen,JCB,UK,,,,,Excavator,,,,https://www.jcb.com/en-GB/explore/insight/technology/,2026-02-15,,,,{}
 Hydrogen,JCB,UK,,,,,Excavator,,,,https://www.jcb.com/en-GB/products/,2026-02-15,,,,{}
 Hydrogen,JCB,UK,,,,,Excavator,,,,https://www.jcb.com/en-GB/explore/engage/dancing-diggers/,2026-02-15,,,,{}
-Hydrogen,JCB,UK,,,,,Excavator,,,,https://www.jcb.com/en-GB/products/machines/tracked-excavators/,2026-02-15,40.0,,,"{""tonnage_raw"": ""40 tonnes""}"
+Hydrogen,JCB,UK,,,,,Excavator,,,,https://www.jcb.com/en-GB/products/machines/tracked-excavators/,2026-02-15,52.0,,,"{""tonnage_raw"": ""52 tonnes""}"
 Hydrogen,JCB,UK,,,,,Excavator,,,,https://www.jcb.com/en-GB/industries/construction/electric-scissors/,2026-02-15,,,,{}
 Hydrogen,JCB,UK,,55.0,,,Excavator,,,,https://www.jcb.com/en-GB/explore/insight/our-story/,2026-02-15,40.0,,,"{""engine_power_raw"": ""55 kW"", ""tonnage_raw"": ""40 tonne""}"
 Hydrogen,JCB,UK,,,,,Excavator,,,,https://www.jcb.com/en-GB/explore/insight/blogs/,2026-02-15,10.0,,,"{""tonnage_raw"": ""10 tonne""}"
@@ -766,7 +766,7 @@ Hydrogen,JCB,UK,,,,,Excavator,,,,https://www.jcb.com/en-GB/explore/insight/techn
 Hydrogen,JCB,UK,,,,,Excavator,,,,https://www.jcb.com/en-GB/products/,2026-02-15,,,,{}
 Hydrogen,JCB,UK,,,,,Excavator,,,,https://www.jcb.com/en-GB/explore/engage/dancing-diggers/,2026-02-15,,,,{}
 Hydrogen,JCB,UK,,,,,Excavator,,,,https://www.jcb.com/en-GB/explore/insight/news/2026/01/partnership-calls-for-pothole-warranties-to-save-taxpayers-cash/,2026-02-15,,,,{}
-Hydrogen,JCB,UK,,,,,Excavator,,,,https://www.jcb.com/en-GB/products/machines/tracked-excavators/,2026-02-15,40.0,,,"{""tonnage_raw"": ""40 tonnes""}"
+Hydrogen,JCB,UK,,,,,Excavator,,,,https://www.jcb.com/en-GB/products/machines/tracked-excavators/,2026-02-15,52.0,,,"{""tonnage_raw"": ""52 tonnes""}"
 Hydrogen,JCB,UK,,,,,Excavator,,,,https://www.jcb.com/en-GB/industries/construction/electric-scissors/,2026-02-15,,,,{}
 ,Develon,South Korea,,,,0.007,Excavator,,,,https://eu.develon-ce.com/en/machines/quick-coupler-bucket-sets,2026-02-15,,,,"{""bucket_raw"": ""7 l""}"
 ,Develon,South Korea,,202.0,,3.3,Excavator,,,,https://eu.develon-ce.com/en/machines/dl320-7,2026-02-15,0.016,,,"{""engine_power_raw"": ""202 kW"", ""tonnage_raw"": ""15.948 kg"", ""bucket_raw"": ""3.3 m³""}"
