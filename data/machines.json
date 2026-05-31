@@ -1720,12 +1720,12 @@
     "last_seen_utc": "2026-02-10T06:00:17Z",
     "engine_kw": null,
     "bucket_m3": 0.018,
-    "tonnage_t": 60.0,
+    "tonnage_t": 400.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"60 tonnes\", \"bucket_raw\": \"18 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"400 tonnes\", \"bucket_raw\": \"18 L\"}"
   },
   {
     "power": "",
@@ -2272,12 +2272,12 @@
     "last_seen_utc": "2026-02-10T06:00:27Z",
     "engine_kw": null,
     "bucket_m3": null,
-    "tonnage_t": 365.0,
+    "tonnage_t": 400.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"365 t\"}"
+    "raw_specs": "{\"tonnage_raw\": \"400 tonnes\"}"
   },
   {
     "power": "Hybrid",
@@ -2320,12 +2320,12 @@
     "last_seen_utc": "2026-02-13T01:01:39Z",
     "engine_kw": null,
     "bucket_m3": null,
-    "tonnage_t": 365.0,
+    "tonnage_t": 400.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"365 t\"}"
+    "raw_specs": "{\"tonnage_raw\": \"400 tonnes\"}"
   },
   {
     "power": "",
@@ -2440,12 +2440,12 @@
     "last_seen_utc": "2026-02-13T01:01:28Z",
     "engine_kw": null,
     "bucket_m3": 0.018,
-    "tonnage_t": 60.0,
+    "tonnage_t": 400.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"60 tonnes\", \"bucket_raw\": \"18 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"400 tonnes\", \"bucket_raw\": \"18 L\"}"
   },
   {
     "power": "Hybrid",
@@ -5414,14 +5414,14 @@
     "link": "https://www.jcb.com/en-GB/industries/municipalities/highway-maintenance/",
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:01:32Z",
-    "engine_kw": null,
+    "engine_kw": 55.0,
     "bucket_m3": null,
     "tonnage_t": 270.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"270 T\"}"
+    "raw_specs": "{\"tonnage_raw\": \"270 T\", \"engine_power_raw\": \"55 kW\"}"
   },
   {
     "power": "Hydrogen",
@@ -6158,14 +6158,14 @@
     "link": "https://www.jcb.com/en-GB/industries/municipalities/highway-maintenance/",
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:01:52Z",
-    "engine_kw": null,
+    "engine_kw": 55.0,
     "bucket_m3": null,
     "tonnage_t": 270.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"270 T\"}"
+    "raw_specs": "{\"tonnage_raw\": \"270 T\", \"engine_power_raw\": \"55 kW\"}"
   },
   {
     "power": "Hydrogen",
@@ -6662,14 +6662,14 @@
     "link": "https://eu.develon-ce.com/en/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:03:14Z",
-    "engine_kw": 171.1,
+    "engine_kw": 336.0,
     "bucket_m3": null,
-    "tonnage_t": 0.3,
+    "tonnage_t": 0.2,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"171.1 kW\", \"tonnage_raw\": \"300 kg\"}"
+    "raw_specs": "{\"engine_power_raw\": \"336.0 kW\", \"tonnage_raw\": \"200 kg\"}"
   },
   {
     "power": "",
@@ -18590,14 +18590,14 @@
     "link": "https://eu.develon-ce.com/es/",
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:42:47Z",
-    "engine_kw": 171.1,
+    "engine_kw": 336.0,
     "bucket_m3": null,
-    "tonnage_t": 0.3,
+    "tonnage_t": 0.2,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"171.1 kW\", \"tonnage_raw\": \"300 kg\"}"
+    "raw_specs": "{\"engine_power_raw\": \"336.0 kW\", \"tonnage_raw\": \"200 kg\"}"
   },
   {
     "power": "",
@@ -18974,14 +18974,14 @@
     "link": "https://eu.develon-ce.com/de/",
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:43:17Z",
-    "engine_kw": 171.1,
+    "engine_kw": 336.0,
     "bucket_m3": null,
-    "tonnage_t": 0.3,
+    "tonnage_t": 0.2,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"171.1 kW\", \"tonnage_raw\": \"300 kg\"}"
+    "raw_specs": "{\"engine_power_raw\": \"336.0 kW\", \"tonnage_raw\": \"200 kg\"}"
   },
   {
     "power": "",
@@ -22473,12 +22473,12 @@
     "last_seen_utc": "2026-02-13T01:01:34Z",
     "engine_kw": null,
     "bucket_m3": null,
-    "tonnage_t": 365.0,
+    "tonnage_t": 400.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"365 t\"}"
+    "raw_specs": "{\"tonnage_raw\": \"400 tonnes\"}"
   },
   {
     "power": "",
@@ -22497,12 +22497,12 @@
     "last_seen_utc": "2026-02-13T01:01:38Z",
     "engine_kw": null,
     "bucket_m3": null,
-    "tonnage_t": 365.0,
+    "tonnage_t": 400.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"365 t\"}"
+    "raw_specs": "{\"tonnage_raw\": \"400 tonnes\"}"
   },
   {
     "power": "",
@@ -24559,14 +24559,14 @@
     "link": "https://eu.develon-ce.com/fr/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:03:24Z",
-    "engine_kw": 171.1,
+    "engine_kw": 336.0,
     "bucket_m3": null,
-    "tonnage_t": 0.3,
+    "tonnage_t": 0.2,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"171.1 kW\", \"tonnage_raw\": \"300 kg\"}"
+    "raw_specs": "{\"engine_power_raw\": \"336.0 kW\", \"tonnage_raw\": \"200 kg\"}"
   },
   {
     "power": "",
@@ -24607,14 +24607,14 @@
     "link": "https://eu.develon-ce.com/it/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:03:28Z",
-    "engine_kw": 171.1,
+    "engine_kw": 336.0,
     "bucket_m3": null,
-    "tonnage_t": 0.3,
+    "tonnage_t": 0.2,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"171.1 kW\", \"tonnage_raw\": \"300 kg\"}"
+    "raw_specs": "{\"engine_power_raw\": \"336.0 kW\", \"tonnage_raw\": \"200 kg\"}"
   },
   {
     "power": "",
