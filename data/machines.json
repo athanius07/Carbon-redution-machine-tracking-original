@@ -5918,14 +5918,14 @@
     "link": "https://www.jcb.com/en-gb/news",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:02:55Z",
-    "engine_kw": null,
+    "engine_kw": 249.81,
     "bucket_m3": null,
     "tonnage_t": 50.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"50 tonne\"}"
+    "raw_specs": "{\"tonnage_raw\": \"50 tonne\", \"engine_power_raw\": \"335 hp\"}"
   },
   {
     "power": "Hydrogen",
