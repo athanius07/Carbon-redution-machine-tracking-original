@@ -1720,12 +1720,12 @@
     "last_seen_utc": "2026-02-10T06:00:17Z",
     "engine_kw": null,
     "bucket_m3": 0.018,
-    "tonnage_t": 400.0,
+    "tonnage_t": 150.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"400 tonnes\", \"bucket_raw\": \"18 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"150 T\", \"bucket_raw\": \"18 L\"}"
   },
   {
     "power": "",
@@ -1960,12 +1960,12 @@
     "last_seen_utc": "2026-02-10T06:00:21Z",
     "engine_kw": null,
     "bucket_m3": null,
-    "tonnage_t": null,
+    "tonnage_t": 150.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{}"
+    "raw_specs": "{\"tonnage_raw\": \"150 T\"}"
   },
   {
     "power": "Hybrid",
@@ -2440,12 +2440,12 @@
     "last_seen_utc": "2026-02-13T01:01:28Z",
     "engine_kw": null,
     "bucket_m3": 0.018,
-    "tonnage_t": 400.0,
+    "tonnage_t": 150.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"400 tonnes\", \"bucket_raw\": \"18 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"150 T\", \"bucket_raw\": \"18 L\"}"
   },
   {
     "power": "Hybrid",
@@ -2632,12 +2632,12 @@
     "last_seen_utc": "2026-02-13T01:01:36Z",
     "engine_kw": null,
     "bucket_m3": null,
-    "tonnage_t": null,
+    "tonnage_t": 150.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{}"
+    "raw_specs": "{\"tonnage_raw\": \"150 T\"}"
   },
   {
     "power": "Hybrid",
@@ -9016,12 +9016,12 @@
     "last_seen_utc": "2026-02-13T01:05:41Z",
     "engine_kw": 400.0,
     "bucket_m3": null,
-    "tonnage_t": 50.0,
+    "tonnage_t": 220.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"400 kW\", \"tonnage_raw\": \"50 T\"}"
+    "raw_specs": "{\"engine_power_raw\": \"400 kW\", \"tonnage_raw\": \"220 tons\"}"
   },
   {
     "power": "Hydrogen",
@@ -18878,14 +18878,14 @@
     "link": "https://eu.develon-ce.com/en/products/dozers",
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:43:09Z",
-    "engine_kw": 117.0,
-    "bucket_m3": 0.132,
-    "tonnage_t": 14.5,
+    "engine_kw": 91.0,
+    "bucket_m3": 0.103,
+    "tonnage_t": 11.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"117 kW\", \"tonnage_raw\": \"14.5 t\", \"bucket_raw\": \"132 l\"}"
+    "raw_specs": "{\"engine_power_raw\": \"91.0 kW\", \"tonnage_raw\": \"11 t\", \"bucket_raw\": \"103.5 l\"}"
   },
   {
     "power": "",
@@ -19262,14 +19262,14 @@
     "link": "https://eu.develon-ce.com/en/products/dozers",
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:43:40Z",
-    "engine_kw": 117.0,
-    "bucket_m3": 0.132,
-    "tonnage_t": 14.5,
+    "engine_kw": 91.0,
+    "bucket_m3": 0.103,
+    "tonnage_t": 11.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"117 kW\", \"tonnage_raw\": \"14.5 t\", \"bucket_raw\": \"132 l\"}"
+    "raw_specs": "{\"engine_power_raw\": \"91.0 kW\", \"tonnage_raw\": \"11 t\", \"bucket_raw\": \"103.5 l\"}"
   },
   {
     "power": "",
