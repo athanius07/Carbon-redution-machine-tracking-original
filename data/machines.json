@@ -9663,13 +9663,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:04:41Z",
     "engine_kw": null,
-    "bucket_m3": 0.06,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"60 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -9687,13 +9687,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:04:42Z",
     "engine_kw": null,
-    "bucket_m3": null,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -9711,13 +9711,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:04:43Z",
     "engine_kw": null,
-    "bucket_m3": 0.06,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"60 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -9735,13 +9735,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:04:45Z",
     "engine_kw": null,
-    "bucket_m3": null,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -9759,13 +9759,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:04:46Z",
     "engine_kw": null,
-    "bucket_m3": null,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -9807,13 +9807,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:04:48Z",
     "engine_kw": null,
-    "bucket_m3": 0.06,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"60 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -9831,13 +9831,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:45:46Z",
     "engine_kw": null,
-    "bucket_m3": 0.06,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"60 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -9855,13 +9855,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:04:51Z",
     "engine_kw": null,
-    "bucket_m3": null,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "Battery",
@@ -9879,13 +9879,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:06:28Z",
     "engine_kw": null,
-    "bucket_m3": 0.26,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"260 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -9903,13 +9903,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:45:49Z",
     "engine_kw": null,
-    "bucket_m3": null,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -9927,13 +9927,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:04:55Z",
     "engine_kw": null,
-    "bucket_m3": null,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -9951,13 +9951,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:45:33Z",
     "engine_kw": null,
-    "bucket_m3": 0.06,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"60 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -9975,13 +9975,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:04:57Z",
     "engine_kw": null,
-    "bucket_m3": null,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -9999,13 +9999,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:45:51Z",
     "engine_kw": null,
-    "bucket_m3": 0.06,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"60 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -10023,13 +10023,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:05:00Z",
     "engine_kw": null,
-    "bucket_m3": 0.06,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"60 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -10047,13 +10047,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:05:01Z",
     "engine_kw": null,
-    "bucket_m3": 0.06,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"60 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -10071,13 +10071,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:05:02Z",
     "engine_kw": null,
-    "bucket_m3": null,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -10095,13 +10095,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:05:04Z",
     "engine_kw": null,
-    "bucket_m3": 0.06,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"60 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -10143,13 +10143,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:45:29Z",
     "engine_kw": null,
-    "bucket_m3": 0.06,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"60 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -10167,13 +10167,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:05:07Z",
     "engine_kw": null,
-    "bucket_m3": 0.06,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"60 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -10191,13 +10191,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:06:17Z",
     "engine_kw": null,
-    "bucket_m3": null,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -10215,13 +10215,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:06:05Z",
     "engine_kw": null,
-    "bucket_m3": null,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -10239,13 +10239,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:45:21Z",
     "engine_kw": null,
-    "bucket_m3": 0.06,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"60 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -10287,13 +10287,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:06:21Z",
     "engine_kw": null,
-    "bucket_m3": 0.06,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"60 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -10311,13 +10311,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:05:49Z",
     "engine_kw": null,
-    "bucket_m3": 0.06,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"60 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -10335,13 +10335,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:06:07Z",
     "engine_kw": 242.0,
-    "bucket_m3": null,
-    "tonnage_t": 610.0,
+    "bucket_m3": 0.002,
+    "tonnage_t": 1855.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"242 kW\", \"tonnage_raw\": \"610 T\"}"
+    "raw_specs": "{\"engine_power_raw\": \"242 kW\", \"tonnage_raw\": \"1855 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -20031,13 +20031,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:45:13Z",
     "engine_kw": null,
-    "bucket_m3": 0.06,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"60 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -20079,13 +20079,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:45:16Z",
     "engine_kw": 240.0,
-    "bucket_m3": null,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"240 kW\", \"tonnage_raw\": \"610 T\"}"
+    "raw_specs": "{\"engine_power_raw\": \"240 kW\", \"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "Battery",
@@ -20103,13 +20103,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:45:18Z",
     "engine_kw": null,
-    "bucket_m3": 0.26,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"260 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -20127,13 +20127,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:45:20Z",
     "engine_kw": 5219.9,
-    "bucket_m3": 2.4,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"7000 HP\", \"bucket_raw\": \"2.4 m³\", \"tonnage_raw\": \"610 T\"}"
+    "raw_specs": "{\"engine_power_raw\": \"7000 HP\", \"bucket_raw\": \"2 L\", \"tonnage_raw\": \"610 T\"}"
   },
   {
     "power": "",
@@ -20151,13 +20151,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:45:23Z",
     "engine_kw": null,
-    "bucket_m3": null,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -20175,13 +20175,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:06:01Z",
     "engine_kw": null,
-    "bucket_m3": 0.06,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"60 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -20199,13 +20199,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:45:26Z",
     "engine_kw": null,
-    "bucket_m3": 0.06,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"60 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -20247,13 +20247,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:05:51Z",
     "engine_kw": null,
-    "bucket_m3": null,
-    "tonnage_t": 610.0,
+    "bucket_m3": 0.002,
+    "tonnage_t": 0.23,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\"}"
+    "raw_specs": "{\"tonnage_raw\": \"230 kg\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -20271,13 +20271,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:45:32Z",
     "engine_kw": null,
-    "bucket_m3": null,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -20319,13 +20319,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:45:37Z",
     "engine_kw": null,
-    "bucket_m3": null,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -20343,13 +20343,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:45:38Z",
     "engine_kw": null,
-    "bucket_m3": null,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -20391,13 +20391,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:45:43Z",
     "engine_kw": null,
-    "bucket_m3": null,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -20415,13 +20415,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:06:15Z",
     "engine_kw": null,
-    "bucket_m3": 0.06,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"60 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -20439,13 +20439,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:45:48Z",
     "engine_kw": null,
-    "bucket_m3": 0.22,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"220 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -20511,13 +20511,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:06:02Z",
     "engine_kw": null,
-    "bucket_m3": null,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -20535,13 +20535,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:05:59Z",
     "engine_kw": null,
-    "bucket_m3": null,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "Battery",
@@ -25520,13 +25520,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:05:52Z",
     "engine_kw": null,
-    "bucket_m3": 0.06,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"60 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -25568,13 +25568,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:06:04Z",
     "engine_kw": null,
-    "bucket_m3": 0.26,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"260 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -25592,13 +25592,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:06:08Z",
     "engine_kw": null,
-    "bucket_m3": 0.06,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"60 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -25616,13 +25616,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:06:09Z",
     "engine_kw": null,
-    "bucket_m3": null,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -25640,13 +25640,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:06:11Z",
     "engine_kw": null,
-    "bucket_m3": 0.06,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"60 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -25688,13 +25688,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:06:14Z",
     "engine_kw": null,
-    "bucket_m3": null,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -25712,13 +25712,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:06:18Z",
     "engine_kw": null,
-    "bucket_m3": 0.06,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"60 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
@@ -25760,13 +25760,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:06:25Z",
     "engine_kw": null,
-    "bucket_m3": null,
+    "bucket_m3": 0.002,
     "tonnage_t": 610.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"610 T\"}"
+    "raw_specs": "{\"tonnage_raw\": \"610 T\", \"bucket_raw\": \"2 L\"}"
   },
   {
     "power": "",
