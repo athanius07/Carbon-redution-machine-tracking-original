@@ -6760,12 +6760,12 @@
     "last_seen_utc": "2026-02-10T06:02:17Z",
     "engine_kw": 75.0,
     "bucket_m3": 0.28,
-    "tonnage_t": 0.011,
+    "tonnage_t": 0.1,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"75 kW\", \"tonnage_raw\": \"11.100 kg\", \"bucket_raw\": \"0.28 m3\"}"
+    "raw_specs": "{\"engine_power_raw\": \"75 kW\", \"tonnage_raw\": \"100 kg\", \"bucket_raw\": \"0.28 m³\"}"
   },
   {
     "power": "",
@@ -7022,14 +7022,14 @@
     "link": "https://eu.develon-ce.com/en/machines/dx27z",
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:02:37Z",
-    "engine_kw": 18.643,
-    "bucket_m3": 6.0,
+    "engine_kw": 18.5,
+    "bucket_m3": 0.08,
     "tonnage_t": 2.73,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"25 hp\", \"tonnage_raw\": \"2730 kg\", \"bucket_raw\": \"0,06 m³\"}"
+    "raw_specs": "{\"engine_power_raw\": \"18.5 kW\", \"tonnage_raw\": \"2730 kg\", \"bucket_raw\": \"0.08 m³\"}"
   },
   {
     "power": "",
@@ -7480,12 +7480,12 @@
     "last_seen_utc": "2026-02-10T06:03:10Z",
     "engine_kw": 75.0,
     "bucket_m3": 0.28,
-    "tonnage_t": 0.011,
+    "tonnage_t": 0.1,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"75 kW\", \"tonnage_raw\": \"11.100 kg\", \"bucket_raw\": \"0.28 m3\"}"
+    "raw_specs": "{\"engine_power_raw\": \"75 kW\", \"tonnage_raw\": \"100 kg\", \"bucket_raw\": \"0.28 m³\"}"
   },
   {
     "power": "",
@@ -7622,14 +7622,14 @@
     "link": "https://eu.develon-ce.com/en/machines/dx27z",
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:43:27Z",
-    "engine_kw": 18.643,
-    "bucket_m3": 6.0,
+    "engine_kw": 18.5,
+    "bucket_m3": 0.08,
     "tonnage_t": 2.73,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"25 hp\", \"tonnage_raw\": \"2730 kg\", \"bucket_raw\": \"0,06 m³\"}"
+    "raw_specs": "{\"engine_power_raw\": \"18.5 kW\", \"tonnage_raw\": \"2730 kg\", \"bucket_raw\": \"0.08 m³\"}"
   },
   {
     "power": "",
@@ -8126,14 +8126,14 @@
     "link": "https://eu.develon-ce.com/en/machines/DX25Z-7",
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:03:54Z",
-    "engine_kw": null,
+    "engine_kw": 18.5,
     "bucket_m3": null,
     "tonnage_t": 0.691,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"691 kg\"}"
+    "raw_specs": "{\"tonnage_raw\": \"691 kg\", \"engine_power_raw\": \"18.5 kW\"}"
   },
   {
     "power": "Hydrogen",
@@ -18616,12 +18616,12 @@
     "last_seen_utc": "2026-02-10T06:42:50Z",
     "engine_kw": 74.57,
     "bucket_m3": 0.28,
-    "tonnage_t": 0.011,
+    "tonnage_t": 0.1,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"100 hp\", \"tonnage_raw\": \"11.100 kg\", \"bucket_raw\": \"0.28 m3\"}"
+    "raw_specs": "{\"engine_power_raw\": \"100 hp\", \"tonnage_raw\": \"100 kg\", \"bucket_raw\": \"0.28 m³\"}"
   },
   {
     "power": "",
@@ -24751,14 +24751,14 @@
     "link": "https://eu.develon-ce.com/en/products/mini-excavators",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:03:40Z",
-    "engine_kw": 771.8,
+    "engine_kw": 76.0,
     "bucket_m3": null,
     "tonnage_t": 1.165,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"10,35 HP\", \"tonnage_raw\": \"1165 kg\"}"
+    "raw_specs": "{\"engine_power_raw\": \"7,6 kW\", \"tonnage_raw\": \"1165 kg\"}"
   },
   {
     "power": "",
@@ -25063,14 +25063,14 @@
     "link": "https://eu.develon-ce.com/en/products/mini-excavators",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:04:18Z",
-    "engine_kw": 771.8,
+    "engine_kw": 76.0,
     "bucket_m3": null,
     "tonnage_t": 1.165,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"10,35 HP\", \"tonnage_raw\": \"1165 kg\"}"
+    "raw_specs": "{\"engine_power_raw\": \"7,6 kW\", \"tonnage_raw\": \"1165 kg\"}"
   },
   {
     "power": "",
@@ -25279,14 +25279,14 @@
     "link": "https://eu.develon-ce.com/en/machines/dx10z-7",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:04:38Z",
-    "engine_kw": 771.8,
+    "engine_kw": 76.0,
     "bucket_m3": null,
     "tonnage_t": 1.165,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"10,35 HP\", \"tonnage_raw\": \"1165 kg\"}"
+    "raw_specs": "{\"engine_power_raw\": \"7,6 kW\", \"tonnage_raw\": \"1165 kg\"}"
   },
   {
     "power": "",
