@@ -70,7 +70,7 @@ Hybrid,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group/about-liebherr/liebherr-worldwide/liebherr-worldwide-3877672,2026-02-15,,,,{}
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/cross-entry-point/en-us-us/corp_imprint,2026-02-15,,,,{}
 Hybrid,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en-us/n/hands-on-the-future-at-conexpo-2026-liebherr-previews-expanded-portfolio-and-digital-solutions-221248-3782185,2026-02-15,,,,{}
-Hybrid,Liebherr,Germany,,,,0.018,Excavator,,,,https://www.liebherr.com/en-us/group/news/news-and-press-releases/news-and-press-releases-3782184,2026-02-15,150.0,,,"{""tonnage_raw"": ""150 T"", ""bucket_raw"": ""18 L""}"
+Hybrid,Liebherr,Germany,,,,0.018,Excavator,,,,https://www.liebherr.com/en-us/group/news/news-and-press-releases/news-and-press-releases-3782184,2026-02-15,2500.0,,,"{""tonnage_raw"": ""2,500 tonnes"", ""bucket_raw"": ""18 L""}"
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group/about-liebherr/services/sales-and-service-partners/sales-and-service-3781939,2026-02-15,,,,{}
 Hybrid,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/tower-cranes/tower-cranes-4356108,2026-02-15,100.0,,,"{""tonnage_raw"": ""100 tons""}"
 Hybrid,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/maritime-cranes/liebherr-maritime-4433440,2026-02-15,1600.0,,,"{""tonnage_raw"": ""1,600 tonnes""}"
@@ -93,14 +93,14 @@ Hybrid,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en-us/material
 Battery,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group/products/solutions/solutions-3782015,2026-02-15,,,,{}
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group/products/hotels/hotels-3782028,2026-02-15,,,,{}
 ,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en-us/group/start-page-3782471,2026-02-15,,,,{}
-,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en/usa/latest-news/latest-news.html,2026-02-15,400.0,,,"{""tonnage_raw"": ""400 tonnes""}"
+,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en/usa/latest-news/latest-news.html,2026-02-15,2500.0,,,"{""tonnage_raw"": ""2,500 tonnes""}"
 Hybrid,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group/products/solutions/wind-energy/wind-energy-3782026,2026-02-15,,,,{}
-,Liebherr,Germany,,,,,Bulldozer,,,,https://www.liebherr.com/en/usa/latest-news/latest-news.html,2026-02-15,400.0,,,"{""tonnage_raw"": ""400 tonnes""}"
+,Liebherr,Germany,,,,,Bulldozer,,,,https://www.liebherr.com/en/usa/latest-news/latest-news.html,2026-02-15,2500.0,,,"{""tonnage_raw"": ""2,500 tonnes""}"
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group/disclaimer/contact-3781985,2026-02-15,,,,{}
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group/about-liebherr/liebherr-worldwide/liebherr-worldwide-3877672,2026-02-15,,,,{}
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/cross-entry-point/en-us-us/corp_imprint,2026-02-15,,,,{}
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group/about-liebherr/services/sales-and-service-partners/sales-and-service-3781939,2026-02-15,,,,{}
-Hybrid,Liebherr,Germany,,,,0.018,Excavator,,,,https://www.liebherr.com/en-us/group/news/news-and-press-releases/news-and-press-releases-3782184,2026-02-15,150.0,,,"{""tonnage_raw"": ""150 T"", ""bucket_raw"": ""18 L""}"
+Hybrid,Liebherr,Germany,,,,0.018,Excavator,,,,https://www.liebherr.com/en-us/group/news/news-and-press-releases/news-and-press-releases-3782184,2026-02-15,2500.0,,,"{""tonnage_raw"": ""2,500 tonnes"", ""bucket_raw"": ""18 L""}"
 Hybrid,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/tower-cranes/tower-cranes-4356108,2026-02-15,100.0,,,"{""tonnage_raw"": ""100 tons""}"
 Hybrid,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/maritime-cranes/liebherr-maritime-4433440,2026-02-15,1600.0,,,"{""tonnage_raw"": ""1,600 tonnes""}"
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/n/global-cooperation-liebherr-and-yuchai-power-join-forces-221760-3782185,2026-02-15,,,,{}
@@ -837,12 +837,12 @@ Hydrogen,SANY,China,,,,135.0,Excavator,,,,https://www.sanyglobal.com/product/con
 ,XCMG,China,,,,0.002,Wheel loader,,,,https://www.xcmg.com/order/,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T"", ""bucket_raw"": ""2 L""}"
 ,XCMG,China,,240.0,,0.002,Wheel loader,,,,https://www.xcmg.com/product/pro-detail-121076.htm,2026-02-15,610.0,,,"{""engine_power_raw"": ""240 kW"", ""tonnage_raw"": ""610 T"", ""bucket_raw"": ""2 L""}"
 Battery,XCMG,China,,,,0.002,Wheel loader,,,,https://www.xcmg.com/site/search.htm?keywords=大吨位XCA350L8起重机,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T"", ""bucket_raw"": ""2 L""}"
-,XCMG,China,,5219.9,,0.002,Wheel loader,,,,https://www.xcmg.com/product/pro-detail-138352.htm,2026-02-15,610.0,,,"{""engine_power_raw"": ""7000 HP"", ""bucket_raw"": ""2 L"", ""tonnage_raw"": ""610 T""}"
+,XCMG,China,,5219.9,,2.4,Wheel loader,,,,https://www.xcmg.com/product/pro-detail-138352.htm,2026-02-15,610.0,,,"{""engine_power_raw"": ""7000 HP"", ""bucket_raw"": ""2.4 m³"", ""tonnage_raw"": ""610 T""}"
 ,XCMG,China,,,,0.002,Wheel loader,,,,https://www.xcmg.com/service/distributor.html,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T"", ""bucket_raw"": ""2 L""}"
 ,XCMG,China,,,,0.002,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1875,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T"", ""bucket_raw"": ""2 L""}"
 ,XCMG,China,,,,0.002,Wheel loader,,,,https://www.xcmg.com/product/pro-list.htm?catId=1002000025,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T"", ""bucket_raw"": ""2 L""}"
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/solution/wind-power-installation.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
-,XCMG,China,,,,0.002,Wheel loader,,,,https://www.xcmg.com/event/pro_evaluation.htm,2026-02-15,0.23,,,"{""tonnage_raw"": ""230 kg"", ""bucket_raw"": ""2 L""}"
+,XCMG,China,,,,0.002,Wheel loader,,,,https://www.xcmg.com/event/pro_evaluation.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T"", ""bucket_raw"": ""2 L""}"
 ,XCMG,China,,,,0.002,Wheel loader,,,,https://www.xcmg.com/product/pro-detail-138357.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T"", ""bucket_raw"": ""2 L""}"
 ,XCMG,China,,,,,Wheel loader,,,,https://www.xcmg.com/aboutus/media.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T""}"
 ,XCMG,China,,,,0.002,Wheel loader,,,,https://www.xcmg.com/product/pro-detail-138355.htm,2026-02-15,610.0,,,"{""tonnage_raw"": ""610 T"", ""bucket_raw"": ""2 L""}"
@@ -935,8 +935,8 @@ Battery,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en-us/group/n
 Battery,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/gear-technology-and-automation-systems/gear-technology-and-automation-systems-4389248,2026-02-15,,,,{}
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/concrete-technology/concrete-technology-4360212,2026-02-15,,,,{}
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/aerospace-and-transportation-systems/liebherr-aerospace-transportation-7173790,2026-02-15,,,,{}
-,Liebherr,Germany,,,,,Bulldozer,,,,https://www.liebherr.com/en-us/group/news/news-3782182,2026-02-15,400.0,,,"{""tonnage_raw"": ""400 tonnes""}"
-,Liebherr,Germany,,,,,Bulldozer,,,,https://www.liebherr.com/en/usa/latest-news/latest-news.html#main-content,2026-02-15,400.0,,,"{""tonnage_raw"": ""400 tonnes""}"
+,Liebherr,Germany,,,,,Bulldozer,,,,https://www.liebherr.com/en-us/group/news/news-3782182,2026-02-15,2500.0,,,"{""tonnage_raw"": ""2,500 tonnes""}"
+,Liebherr,Germany,,,,,Bulldozer,,,,https://www.liebherr.com/en/usa/latest-news/latest-news.html#main-content,2026-02-15,2500.0,,,"{""tonnage_raw"": ""2,500 tonnes""}"
 ,John Deere,USA,,200.0,,0.008,Excavator,,,,https://www.deere.com/en/skidders/,2026-02-15,0.1,,,"{""engine_power_raw"": ""200 kW"", ""tonnage_raw"": ""100 kg"", ""bucket_raw"": ""8.0 L""}"
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/rental-sales/,2026-02-15,,,,{}
 ,John Deere,USA,,,,,Excavator,,,,https://www.deere.com/en/agriculture/used-equipment/,2026-02-15,,,,{}
