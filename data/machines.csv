@@ -62,7 +62,7 @@ Battery,Hitachi,Japan,,,,,Excavator,,,,https://www.hitachicm.com/global/en/produ
 Battery,Hitachi,Japan,,,,,Excavator,,,,https://www.hitachicm.com/#a05,2026-02-15,,,,{}
 Battery,Hitachi,Japan,,,,,Excavator,,,,https://www.hitachicm.com/global/en/corporate/production-quality/,2026-02-15,,,,{}
 ,Volvo CE,Sweden,,,,,Excavator,,,,https://www.volvoce.com/,2026-02-15,,,,{}
-,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en/usa/usa.html,2026-02-15,,,,{}
+,Liebherr,Germany,,,,1.314,Excavator,,,,https://www.liebherr.com/en/usa/usa.html,2026-02-15,,,,"{""bucket_raw"": ""1,314 litres""}"
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/n/liebherr-at-mro-middle-east-2026-exhibition-220992-3782185,2026-02-15,,,,{}
 Hybrid,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group/products/solutions/wind-energy/wind-energy-3782026,2026-02-15,,,,{}
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group/disclaimer/contact-3781985,2026-02-15,,,,{}
@@ -70,12 +70,12 @@ Hybrid,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group/about-liebherr/liebherr-worldwide/liebherr-worldwide-3877672,2026-02-15,,,,{}
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/cross-entry-point/en-us-us/corp_imprint,2026-02-15,,,,{}
 Hybrid,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en-us/n/hands-on-the-future-at-conexpo-2026-liebherr-previews-expanded-portfolio-and-digital-solutions-221248-3782185,2026-02-15,33.0,,,"{""tonnage_raw"": ""33 tonnes""}"
-Hybrid,Liebherr,Germany,,,,0.018,Excavator,,,,https://www.liebherr.com/en-us/group/news/news-and-press-releases/news-and-press-releases-3782184,2026-02-15,33.0,,,"{""tonnage_raw"": ""33 tonnes"", ""bucket_raw"": ""18 L""}"
+Hybrid,Liebherr,Germany,,,,1.314,Excavator,,,,https://www.liebherr.com/en-us/group/news/news-and-press-releases/news-and-press-releases-3782184,2026-02-15,33.0,,,"{""tonnage_raw"": ""33 tonnes"", ""bucket_raw"": ""1,314 litres""}"
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group/about-liebherr/services/sales-and-service-partners/sales-and-service-3781939,2026-02-15,,,,{}
 Hybrid,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/tower-cranes/tower-cranes-4356108,2026-02-15,100.0,,,"{""tonnage_raw"": ""100 tons""}"
 Hybrid,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/maritime-cranes/liebherr-maritime-4433440,2026-02-15,1600.0,,,"{""tonnage_raw"": ""1,600 tonnes""}"
 Hydrogen,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en-us/group/annual-reports/annual-report-2024/highlights-7339898,2026-02-15,400.0,,,"{""tonnage_raw"": ""400 t""}"
-,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/n/global-cooperation-liebherr-and-yuchai-power-join-forces-221760-3782185,2026-02-15,,,,{}
+,Liebherr,Germany,,,,1.314,Wheel loader,,,,https://www.liebherr.com/en-us/n/global-cooperation-liebherr-and-yuchai-power-join-forces-221760-3782185,2026-02-15,,,,"{""bucket_raw"": ""1,314 litres""}"
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/careers/professionals-4294648,2026-02-15,,,,{}
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group/about-liebherr/services/product-security/psirt-3781983,2026-02-15,,,,{}
 Hybrid,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/deep-foundation/deep-foundation-4424773,2026-02-15,,,,{}
@@ -87,23 +87,23 @@ Hybrid,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en-us/material
 ,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en-us/careers/students-4294676,2026-02-15,,,,{}
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/cross-entry-point/en-us-us/corp_privacy,2026-02-15,,,,{}
 Hybrid,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en-us/material-handling/overview-4672316,2026-02-15,,,,{}
-,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/n/clever-load-planning-with-easycargo-220736-3782185,2026-02-15,1000.0,,,"{""tonnage_raw"": ""1,000 tonnes""}"
+,Liebherr,Germany,,,,1.314,Wheel loader,,,,https://www.liebherr.com/en-us/n/clever-load-planning-with-easycargo-220736-3782185,2026-02-15,1000.0,,,"{""tonnage_raw"": ""1,000 tonnes"", ""bucket_raw"": ""1,314 litres""}"
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/careers/we-as-an-employer-4294694,2026-02-15,,,,{}
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/cross-entry-point/en-us-us/corp_contact,2026-02-15,,,,{}
 Battery,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group/products/solutions/solutions-3782015,2026-02-15,,,,{}
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group/products/hotels/hotels-3782028,2026-02-15,,,,{}
-,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en-us/group/start-page-3782471,2026-02-15,,,,{}
-,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en/usa/latest-news/latest-news.html,2026-02-15,33.0,,,"{""tonnage_raw"": ""33 tonnes""}"
+,Liebherr,Germany,,,,1.314,Excavator,,,,https://www.liebherr.com/en-us/group/start-page-3782471,2026-02-15,,,,"{""bucket_raw"": ""1,314 litres""}"
+,Liebherr,Germany,,,,1.314,Wheel loader,,,,https://www.liebherr.com/en/usa/latest-news/latest-news.html,2026-02-15,33.0,,,"{""tonnage_raw"": ""33 tonnes"", ""bucket_raw"": ""1,314 litres""}"
 Hybrid,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group/products/solutions/wind-energy/wind-energy-3782026,2026-02-15,,,,{}
 ,Liebherr,Germany,,,,,Bulldozer,,,,https://www.liebherr.com/en/usa/latest-news/latest-news.html,2026-02-15,33.0,,,"{""tonnage_raw"": ""33 tonnes""}"
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group/disclaimer/contact-3781985,2026-02-15,,,,{}
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group/about-liebherr/liebherr-worldwide/liebherr-worldwide-3877672,2026-02-15,,,,{}
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/cross-entry-point/en-us-us/corp_imprint,2026-02-15,,,,{}
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group/about-liebherr/services/sales-and-service-partners/sales-and-service-3781939,2026-02-15,,,,{}
-Hybrid,Liebherr,Germany,,,,0.018,Excavator,,,,https://www.liebherr.com/en-us/group/news/news-and-press-releases/news-and-press-releases-3782184,2026-02-15,33.0,,,"{""tonnage_raw"": ""33 tonnes"", ""bucket_raw"": ""18 L""}"
+Hybrid,Liebherr,Germany,,,,1.314,Excavator,,,,https://www.liebherr.com/en-us/group/news/news-and-press-releases/news-and-press-releases-3782184,2026-02-15,33.0,,,"{""tonnage_raw"": ""33 tonnes"", ""bucket_raw"": ""1,314 litres""}"
 Hybrid,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/tower-cranes/tower-cranes-4356108,2026-02-15,100.0,,,"{""tonnage_raw"": ""100 tons""}"
 Hybrid,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/maritime-cranes/liebherr-maritime-4433440,2026-02-15,1600.0,,,"{""tonnage_raw"": ""1,600 tonnes""}"
-,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/n/global-cooperation-liebherr-and-yuchai-power-join-forces-221760-3782185,2026-02-15,,,,{}
+,Liebherr,Germany,,,,1.314,Wheel loader,,,,https://www.liebherr.com/en-us/n/global-cooperation-liebherr-and-yuchai-power-join-forces-221760-3782185,2026-02-15,,,,"{""bucket_raw"": ""1,314 litres""}"
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/careers/professionals-4294648,2026-02-15,,,,{}
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/group/about-liebherr/services/product-security/psirt-3781983,2026-02-15,,,,{}
 Battery,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en-us/group/news/press-contact/press-contact-3782441#contact_product,2026-02-15,,,,{}
@@ -117,7 +117,7 @@ Hybrid,Liebherr,Germany,,,,,Dump truck,,,,https://www.liebherr.com/en-us/group/a
 Hybrid,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en-us/material-handling/overview-4672316,2026-02-15,,,,{}
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/careers/we-as-an-employer-4294694,2026-02-15,,,,{}
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/cross-entry-point/en-us-us/corp_contact,2026-02-15,,,,{}
-,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en-us/group/start-page-3782471,2026-02-15,,,,{}
+,Liebherr,Germany,,,,1.314,Excavator,,,,https://www.liebherr.com/en-us/group/start-page-3782471,2026-02-15,,,,"{""bucket_raw"": ""1,314 litres""}"
 Battery,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en-us/mining-equipment/mining-equipment-4707223,2026-02-15,375.0,,,"{""tonnage_raw"": ""375 tonnes""}"
 ,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en-us/group/products/solutions/digital-solutions/digital-solutions-3782017,2026-02-15,,,,{}
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/cross-entry-point/en-us-us/corp_accessibility,2026-02-15,,,,{}
@@ -369,7 +369,7 @@ Hydrogen,HD Hyundai CE,South Korea,,,,0.36,Excavator,,,,https://www.hyundai-ce.c
 ,HD Hyundai CE,South Korea,,,,0.36,Excavator,,,,https://www.hyundai-ce.com/en/total-search/list?q=MG MC ,2026-02-15,,,,"{""bucket_raw"": ""360 L""}"
 ,HD Hyundai CE,South Korea,,,,0.36,Excavator,,,,https://www.hyundai-ce.com/en/total-search/list?q=HI MATE,2026-02-15,,,,"{""bucket_raw"": ""360 L""}"
 ,HD Hyundai CE,South Korea,,,,0.36,Excavator,,,,https://www.hyundai-ce.com/en/products/view?productsSeq=571,2026-02-15,,,,"{""bucket_raw"": ""360 L""}"
-Hydrogen,SANY,China,,45.4,,0.28,Excavator,,,,https://www.sanyglobal.com/,2026-02-15,7.5,,,"{""engine_power_raw"": ""45.4 kW"", ""tonnage_raw"": ""7.5 T"", ""bucket_raw"": ""0.28 m³""}"
+Hydrogen,SANY,China,,567.0,,8.0,Excavator,,,,https://www.sanyglobal.com/,2026-02-15,36.0,,,"{""engine_power_raw"": ""567 kW"", ""tonnage_raw"": ""36 T"", ""bucket_raw"": ""8 m³""}"
 Hydrogen,SANY,China,,,,,Excavator,,,,https://www.sanyglobal.com/press_releases/4835/,2026-02-15,,,,{}
 Hydrogen,SANY,China,,,,,Excavator,,,,https://www.sanyglobal.com/cases/list-17/,2026-02-15,,,,{}
 Hydrogen,SANY,China,,333.328,,,Excavator,,,,https://www.sanyglobal.com/product/petroleum_equipment/fracking_unit/,2026-02-15,,,,"{""engine_power_raw"": ""447 hp""}"
@@ -930,7 +930,7 @@ Hydrogen,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en-us/group/
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/aerospace-and-transportation-systems/liebherr-aerospace-transportation-7173790,2026-02-15,,,,{}
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/concrete-technology/concrete-technology-4360212,2026-02-15,,,,{}
 ,Liebherr,Germany,,108.127,,0.009,Excavator,,,,https://www.liebherr.com/en-us/n/delson-contracts-expands-liebherr-fleet-with-pr-716-g8-crawler-dozer-223808-3782185,2026-02-15,13.3,,,"{""engine_power_raw"": ""145 hp"", ""tonnage_raw"": ""13.3 t"", ""bucket_raw"": ""9.3 litres""}"
-,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en/usa/usa.html#main-content,2026-02-15,,,,{}
+,Liebherr,Germany,,,,1.314,Excavator,,,,https://www.liebherr.com/en/usa/usa.html#main-content,2026-02-15,,,,"{""bucket_raw"": ""1,314 litres""}"
 Battery,Liebherr,Germany,,,,,Excavator,,,,https://www.liebherr.com/en-us/group/news/press-contact/press-contact-3782441,2026-02-15,,,,{}
 Battery,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/gear-technology-and-automation-systems/gear-technology-and-automation-systems-4389248,2026-02-15,,,,{}
 ,Liebherr,Germany,,,,,Wheel loader,,,,https://www.liebherr.com/en-us/concrete-technology/concrete-technology-4360212,2026-02-15,,,,{}

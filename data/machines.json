@@ -1527,13 +1527,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:01:08Z",
     "engine_kw": null,
-    "bucket_m3": null,
+    "bucket_m3": 1.314,
     "tonnage_t": null,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{}"
+    "raw_specs": "{\"bucket_raw\": \"1,314 litres\"}"
   },
   {
     "power": "",
@@ -1719,13 +1719,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:00:17Z",
     "engine_kw": null,
-    "bucket_m3": 0.018,
+    "bucket_m3": 1.314,
     "tonnage_t": 33.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"33 tonnes\", \"bucket_raw\": \"18 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"33 tonnes\", \"bucket_raw\": \"1,314 litres\"}"
   },
   {
     "power": "",
@@ -1839,13 +1839,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:00:18Z",
     "engine_kw": null,
-    "bucket_m3": null,
+    "bucket_m3": 1.314,
     "tonnage_t": null,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{}"
+    "raw_specs": "{\"bucket_raw\": \"1,314 litres\"}"
   },
   {
     "power": "",
@@ -2127,13 +2127,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:40:54Z",
     "engine_kw": null,
-    "bucket_m3": null,
+    "bucket_m3": 1.314,
     "tonnage_t": 1000.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"1,000 tonnes\"}"
+    "raw_specs": "{\"tonnage_raw\": \"1,000 tonnes\", \"bucket_raw\": \"1,314 litres\"}"
   },
   {
     "power": "",
@@ -2247,13 +2247,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:00:27Z",
     "engine_kw": null,
-    "bucket_m3": null,
+    "bucket_m3": 1.314,
     "tonnage_t": null,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{}"
+    "raw_specs": "{\"bucket_raw\": \"1,314 litres\"}"
   },
   {
     "power": "",
@@ -2271,13 +2271,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:00:27Z",
     "engine_kw": null,
-    "bucket_m3": null,
+    "bucket_m3": 1.314,
     "tonnage_t": 33.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"33 tonnes\"}"
+    "raw_specs": "{\"tonnage_raw\": \"33 tonnes\", \"bucket_raw\": \"1,314 litres\"}"
   },
   {
     "power": "Hybrid",
@@ -2439,13 +2439,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:01:28Z",
     "engine_kw": null,
-    "bucket_m3": 0.018,
+    "bucket_m3": 1.314,
     "tonnage_t": 33.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"33 tonnes\", \"bucket_raw\": \"18 L\"}"
+    "raw_specs": "{\"tonnage_raw\": \"33 tonnes\", \"bucket_raw\": \"1,314 litres\"}"
   },
   {
     "power": "Hybrid",
@@ -2511,13 +2511,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:41:08Z",
     "engine_kw": null,
-    "bucket_m3": null,
+    "bucket_m3": 1.314,
     "tonnage_t": null,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{}"
+    "raw_specs": "{\"bucket_raw\": \"1,314 litres\"}"
   },
   {
     "power": "",
@@ -2847,13 +2847,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:01:31Z",
     "engine_kw": null,
-    "bucket_m3": null,
+    "bucket_m3": 1.314,
     "tonnage_t": null,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{}"
+    "raw_specs": "{\"bucket_raw\": \"1,314 litres\"}"
   },
   {
     "power": "Battery",
@@ -8894,14 +8894,14 @@
     "link": "https://www.sanyglobal.com/",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:05:24Z",
-    "engine_kw": 45.4,
-    "bucket_m3": 0.28,
-    "tonnage_t": 7.5,
+    "engine_kw": 567.0,
+    "bucket_m3": 8.0,
+    "tonnage_t": 36.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"engine_power_raw\": \"45.4 kW\", \"tonnage_raw\": \"7.5 T\", \"bucket_raw\": \"0.28 m³\"}"
+    "raw_specs": "{\"engine_power_raw\": \"567 kW\", \"tonnage_raw\": \"36 T\", \"bucket_raw\": \"8 m³\"}"
   },
   {
     "power": "Hydrogen",
@@ -22352,13 +22352,13 @@
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:01:23Z",
     "engine_kw": null,
-    "bucket_m3": null,
+    "bucket_m3": 1.314,
     "tonnage_t": null,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{}"
+    "raw_specs": "{\"bucket_raw\": \"1,314 litres\"}"
   },
   {
     "power": "Battery",
