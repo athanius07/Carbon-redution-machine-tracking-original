@@ -1718,14 +1718,14 @@
     "link": "https://www.liebherr.com/en-us/group/news/news-and-press-releases/news-and-press-releases-3782184",
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:00:17Z",
-    "engine_kw": null,
+    "engine_kw": 850.0,
     "bucket_m3": 1.314,
     "tonnage_t": 20.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"20 tonnes\", \"bucket_raw\": \"1,314 litres\"}"
+    "raw_specs": "{\"tonnage_raw\": \"20 tonnes\", \"bucket_raw\": \"1,314 litres\", \"engine_power_raw\": \"850 kW\"}"
   },
   {
     "power": "",
@@ -2270,14 +2270,14 @@
     "link": "https://www.liebherr.com/en/usa/latest-news/latest-news.html",
     "link_date": "",
     "last_seen_utc": "2026-02-10T06:00:27Z",
-    "engine_kw": null,
+    "engine_kw": 850.0,
     "bucket_m3": 1.314,
     "tonnage_t": 20.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"20 tonnes\", \"bucket_raw\": \"1,314 litres\"}"
+    "raw_specs": "{\"tonnage_raw\": \"20 tonnes\", \"bucket_raw\": \"1,314 litres\", \"engine_power_raw\": \"850 kW\"}"
   },
   {
     "power": "Hybrid",
@@ -2318,14 +2318,14 @@
     "link": "https://www.liebherr.com/en/usa/latest-news/latest-news.html",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:01:39Z",
-    "engine_kw": null,
+    "engine_kw": 850.0,
     "bucket_m3": null,
     "tonnage_t": 20.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"20 tonnes\"}"
+    "raw_specs": "{\"tonnage_raw\": \"20 tonnes\", \"engine_power_raw\": \"850 kW\"}"
   },
   {
     "power": "",
@@ -2438,14 +2438,14 @@
     "link": "https://www.liebherr.com/en-us/group/news/news-and-press-releases/news-and-press-releases-3782184",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:01:28Z",
-    "engine_kw": null,
+    "engine_kw": 850.0,
     "bucket_m3": 1.314,
     "tonnage_t": 20.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"20 tonnes\", \"bucket_raw\": \"1,314 litres\"}"
+    "raw_specs": "{\"tonnage_raw\": \"20 tonnes\", \"bucket_raw\": \"1,314 litres\", \"engine_power_raw\": \"850 kW\"}"
   },
   {
     "power": "Hybrid",
@@ -12302,14 +12302,14 @@
     "link": "https://en.zoomlion.com/about/company_profile.htm",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:15:21Z",
-    "engine_kw": null,
+    "engine_kw": 671.13,
     "bucket_m3": null,
     "tonnage_t": null,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{}"
+    "raw_specs": "{\"engine_power_raw\": \"900 HP\"}"
   },
   {
     "power": "Hydrogen",
@@ -22471,14 +22471,14 @@
     "link": "https://www.liebherr.com/en-us/group/news/news-3782182",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:01:34Z",
-    "engine_kw": null,
+    "engine_kw": 850.0,
     "bucket_m3": null,
     "tonnage_t": 20.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"20 tonnes\"}"
+    "raw_specs": "{\"tonnage_raw\": \"20 tonnes\", \"engine_power_raw\": \"850 kW\"}"
   },
   {
     "power": "",
@@ -22495,14 +22495,14 @@
     "link": "https://www.liebherr.com/en/usa/latest-news/latest-news.html#main-content",
     "link_date": "",
     "last_seen_utc": "2026-02-13T01:01:38Z",
-    "engine_kw": null,
+    "engine_kw": 850.0,
     "bucket_m3": null,
     "tonnage_t": 20.0,
     "blade_w_m": null,
     "blade_h_m": null,
     "blade": null,
     "date": "2026-02-15",
-    "raw_specs": "{\"tonnage_raw\": \"20 tonnes\"}"
+    "raw_specs": "{\"tonnage_raw\": \"20 tonnes\", \"engine_power_raw\": \"850 kW\"}"
   },
   {
     "power": "",
