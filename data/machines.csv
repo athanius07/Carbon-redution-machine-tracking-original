@@ -323,7 +323,7 @@ Battery,Develon,South Korea,,104.398,,,Excavator,,,,https://eu.develon-ce.com/en
 ,Develon,South Korea,,,,,Excavator,,,,https://eu.develon-ce.com/en/become-a-dealer,2026-02-15,,,,{}
 Battery,Develon,South Korea,,,,,Excavator,,,,https://eu.develon-ce.com/en/innovation-concept-x,2026-02-15,,,,{}
 ,Develon,South Korea,,240.0,,,Excavator,,,,https://eu.develon-ce.com/en/news/2025-07-04-Demolition-of-the-Former-Tesla-Site-in-the-Czech-Republic-Carried-Out-Using-a-Develon-DX380DM-7-Excavator,2026-02-15,47.5,,,"{""engine_power_raw"": ""240 kW"", ""tonnage_raw"": ""47.5 tonne""}"
-Battery,Develon,South Korea,,,,,Excavator,,,,https://eu.develon-ce.com/it/news,2026-02-15,50.0,,,"{""tonnage_raw"": ""50 t""}"
+Battery,Develon,South Korea,,,,0.01,Excavator,,,,https://eu.develon-ce.com/it/news,2026-02-15,50.0,,,"{""tonnage_raw"": ""50 t"", ""bucket_raw"": ""10.2026 L""}"
 ,Develon,South Korea,,117.0,,0.132,Excavator,,,,https://eu.develon-ce.com/en/machines/dd130,2026-02-15,22.0,,,"{""engine_power_raw"": ""117 kW"", ""tonnage_raw"": ""22 tons"", ""bucket_raw"": ""132 l""}"
 ,Develon,South Korea,,12.1,,0.04,Excavator,,,,https://eu.develon-ce.com/en/machines/dx19-7,2026-02-15,1.885,,,"{""engine_power_raw"": ""12.1 kW"", ""tonnage_raw"": ""1885 kg"", ""bucket_raw"": ""0.04 m3""}"
 ,Develon,South Korea,,6.0,,,Excavator,,,,https://eu.develon-ce.com/en/machines/dl08v,2026-02-15,,,,"{""engine_power_raw"": ""6 kW""}"
